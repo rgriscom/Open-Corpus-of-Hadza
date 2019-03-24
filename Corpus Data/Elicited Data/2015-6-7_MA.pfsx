@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">1855,1056</Object>
+    </pref>
+    <pref key="MultiTierViewer.TierSortingMode">
+        <Int>1</Int>
+    </pref>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>7</Int>
+    </pref>
+    <pref key="LayoutManager.MediaAreaWidth">
+        <Int>352</Int>
+    </pref>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <pref key="LayoutManager.ControlPanelWidth">
+        <Int>274</Int>
+    </pref>
+    <pref key="InterlinearizationMode.LeftTopBottomSplit">
+        <Double>0.2971926427879961</Double>
+    </pref>
+    <prefGroup key="Fine audio segmentation for splitting audio into utterance level segments.">
+        <pref key="low_energy_frames_pct">
+            <Float>0.1</Float>
+        </pref>
+        <pref key="do_merging">
+            <String>yes</String>
+        </pref>
+        <pref key="fine_segmentation_tier">
+            <String>/home/richard/Dropbox/OCH/OCH Media Files/Elicited Data/2015-6-7 RG Mariamu Session 1 Audio_fine_segmentation_tier3156897617160222721.xml</String>
+        </pref>
+        <pref key="source_audio">
+            <String>///home/richard/Dropbox/OCH/OCH Media Files/Elicited Data/2015-6-7 RG Mariamu Session 1 Audio.wav</String>
+        </pref>
+    </prefGroup>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>REF</String>
+    </pref>
+    <pref key="LayoutManager.MediaAreaHeight">
+        <Int>177</Int>
+    </pref>
+    <pref key="SelectionEndTime">
+        <Long>0</Long>
+    </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <pref key="IGTViewerRenderInfo.headerWidth">
+        <Int>100</Int>
+    </pref>
+    <prefGroup key="CommentViewer.Columns">
+        <pref key="Sender">
+            <Int>0</Int>
+        </pref>
+        <pref key="Comment">
+            <Int>75</Int>
+        </pref>
+        <pref key="Creation Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Tier">
+            <Int>75</Int>
+        </pref>
+        <pref key="Modification Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Recipient">
+            <Int>0</Int>
+        </pref>
+        <pref key="Start Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Initials">
+            <Int>75</Int>
+        </pref>
+        <pref key="End Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Thread">
+            <Int>75</Int>
+        </pref>
+    </prefGroup>
+    <prefGroup key="InterlinearizationMode.LexiconPanelPrefs">
+        <pref key="LexiconPanel.SelectedLexicon">
+            <String>OCH Lexicon_1</String>
+        </pref>
+        <prefGroup key="LexiconPanel.VisibleColumnsMap">
+            <prefList key="OCH Lexicon">
+                <String>lexical-unit</String>
+                <String>morph-type</String>
+                <String>citation</String>
+            </prefList>
+            <prefList key="test">
+                <String>lexical-unit</String>
+                <String>morph-type</String>
+                <String>citation</String>
+            </prefList>
+            <prefList key="Open Corpus of Hadza Lexicon">
+                <String>lexical-unit</String>
+                <String>morph-type</String>
+                <String>citation</String>
+            </prefList>
+            <prefList key="OCH Lexicon_1">
+                <String>lexical-unit</String>
+                <String>morph-type</String>
+                <String>citation</String>
+            </prefList>
+            <prefList key="OCAD Dissertation Lexicon">
+                <String>lexical-unit</String>
+                <String>morph-type</String>
+                <String>citation</String>
+            </prefList>
+        </prefGroup>
+    </prefGroup>
+    <prefList key="CommentViewer.Columns.Order">
+        <String>Start Time</String>
+        <String>End Time</String>
+        <String>Tier</String>
+        <String>Initials</String>
+        <String>Comment</String>
+        <String>Thread</String>
+        <String>Sender</String>
+        <String>Recipient</String>
+        <String>Creation Date</String>
+        <String>Modification Date</String>
+    </prefList>
+    <pref key="ActiveRecognizerName">
+        <String>AAM-LR Phone level audio segmentation</String>
+    </pref>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">1431,24</Object>
+    </pref>
+    <pref key="AnalyzerConfigurationPanel.CurrentAnalyzer">
+        <String>Whitespace Text Analyzer</String>
+    </pref>
+    <prefList key="InterlinearizationConfigurations"/>
+    <pref key="SelectionBeginTime">
+        <Long>0</Long>
+    </pref>
+    <prefGroup key="AAM-LR Phone level audio segmentation">
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+        <pref key="source_audio">
+            <String>///home/richard/Dropbox/OCH/OCH Media Files/Elicited Data/2015-6-7 RG Mariamu Session 1 Audio.wav</String>
+        </pref>
+    </prefGroup>
+    <pref key="InterlinearizationMode.RightTopBottomSplit">
+        <Double>0.45401742497579867</Double>
+    </pref>
+    <prefList key="MultiTierViewer.HiddenTiers"/>
+    <pref key="InterlinearizationEditor.FontSize">
+        <Int>12</Int>
+    </pref>
+    <pref key="TimeScaleBeginTime">
+        <Long>160</Long>
+    </pref>
+    <pref key="MediaTime">
+        <Long>0</Long>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="REF">
+            <Object class="java.awt.Color">90,0,160</Object>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>REF</String>
+        <String>Orthographic Transcription@</String>
+        <String>Swahili@</String>
+        <String>English@</String>
+        <String>Phonological Transcription@</String>
+        <String>Word@</String>
+        <String>Morpheme@</String>
+        <String>Gloss@</String>
+    </prefList>
+    <pref key="LayoutManager.SplitPaneDividerLocation">
+        <Int>70</Int>
+    </pref>
+    <pref key="InterlinearizationMode.LeftRightSplit">
+        <Double>0.22210242587601078</Double>
+    </pref>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Sender</String>
+        <String>Recipient</String>
+    </prefList>
+    <prefGroup key="InterlinearizationConfigurations.ExcludedTierConfigurations"/>
+</preferences>

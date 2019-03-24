@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lift producer="ELAN-Lexicon to LIFT Transformer" version="0.13">
+<header>
+<description>
+<form lang="Hadza">
+<text>This is the parsing lexicon that is used in the Open Corpus of Hadza.</text>
+</form>
+</description>
+</header>
+<entry dateCreated="2019-03-24T17:33:52.661Z" dateModified="2019-03-24T17:40:35.292Z" guid="1c1bd099-78cd-4b64-9a23-cc5c8b570cc1" id="-amo1_1c1bd099-78cd-4b64-9a23-cc5c8b570cc1">
+<lexical-unit>
+<form lang="Hadza">
+<text>-amo</text>
+</form>
+</lexical-unit>
+<trait name="morph-type" value="affix"/>
+<sense id="7474f06d-7d42-45fb-aa64-9065ed6170d7" order="1">
+<grammatical-info value="suffix"/>
+<gloss>
+<text>3.PST</text>
+</gloss>
+</sense>
+</entry>
+<entry dateCreated="2019-03-24T17:52:50.028Z" dateModified="2019-03-24T17:53:06.210Z" guid="01fcde5e-a8f1-4742-a3fb-98160bd4255d" id="-eta1_01fcde5e-a8f1-4742-a3fb-98160bd4255d">
+<lexical-unit>
+<form lang="Hadza">
+<text>-eta</text>
+</form>
+</lexical-unit>
+<trait name="morph-type" value="affix"/>
+<sense id="f2952e82-4f2f-4e21-966f-aa3c04bba092" order="1">
+<grammatical-info value="suffix"/>
+<gloss>
+<text>3.PL.F.OBJ</text>
+</gloss>
+</sense>
+</entry>
+<entry dateCreated="2019-03-24T17:54:05.273Z" dateModified="2019-03-24T17:54:05.274Z" guid="2a230f23-5544-4ff9-9e3d-495a771397fa" id="amo1_2a230f23-5544-4ff9-9e3d-495a771397fa">
+<lexical-unit>
+<form lang="Hadza">
+<text>amo</text>
+</form>
+</lexical-unit>
+<trait name="morph-type" value="root"/>
+<sense id="3f833cdc-75cc-4831-8db8-1fcc894bf33d" order="1">
+<grammatical-info value="verb"/>
+<gloss>
+<text>3.PST</text>
+</gloss>
+</sense>
+</entry>
+<entry dateCreated="2019-03-24T17:33:22.236Z" dateModified="2019-03-24T17:33:22.260Z" guid="1223d78e-8e7a-44d3-a4ae-280d1767abb8" id="bahe1_1223d78e-8e7a-44d3-a4ae-280d1767abb8">
+<lexical-unit>
+<form lang="Hadza">
+<text>bahe</text>
+</form>
+</lexical-unit>
+<trait name="morph-type" value="root"/>
+<sense id="574997bd-68b8-426a-a9b1-85588d09f6ac" order="1">
+<grammatical-info value="verb"/>
+<gloss>
+<text>EXIST.COP</text>
+</gloss>
+</sense>
+</entry>
+<entry dateCreated="2019-03-24T17:51:34.173Z" dateModified="2019-03-24T17:51:34.174Z" guid="3ff915b6-9d55-429c-a3de-11e28725107e" id="ela1_3ff915b6-9d55-429c-a3de-11e28725107e">
+<lexical-unit>
+<form lang="Hadza">
+<text>ela</text>
+</form>
+</lexical-unit>
+<trait name="morph-type" value="root"/>
+<sense id="ab9f26df-a9f5-4ea2-8203-6bac503a5782" order="1">
+<grammatical-info value="verb"/>
+<gloss>
+<text>do</text>
+</gloss>
+</sense>
+</entry>
+<entry dateCreated="2019-03-24T17:39:07.068Z" dateModified="2019-03-24T17:39:07.069Z" guid="1dfbc384-d9fa-4801-925d-0a1ba246abf3" id="itʃaːme1_1dfbc384-d9fa-4801-925d-0a1ba246abf3">
+<lexical-unit>
+<form lang="Hadza">
+<text>itʃaːme</text>
+</form>
+</lexical-unit>
+<trait name="morph-type" value="root"/>
+<sense id="b7e69f3c-2e72-4b22-963b-06974a5ff382" order="1">
+<grammatical-info value="demonstrative"/>
+<gloss>
+<text>DEM.SG</text>
+</gloss>
+</sense>
+</entry>
+<entry dateCreated="2019-03-24T17:39:18.117Z" dateModified="2019-03-24T17:39:18.118Z" guid="6c4681a9-2326-440f-b9c1-188e198a062c" id="jombaga1_6c4681a9-2326-440f-b9c1-188e198a062c">
+<lexical-unit>
+<form lang="Hadza">
+<text>jombaga</text>
+</form>
+</lexical-unit>
+<trait name="morph-type" value="root"/>
+<sense id="e3d4e276-91a4-4db6-83b3-e767ec8bbf98" order="1">
+<grammatical-info value="noun"/>
+<gloss>
+<text>Yombaga</text>
+</gloss>
+</sense>
+</entry>
+<entry dateCreated="2019-03-24T17:36:37.882Z" dateModified="2019-03-24T17:36:37.883Z" guid="08ea4257-066b-4d5c-91c2-9eb8ef82583f" id="paˀnakwete1_08ea4257-066b-4d5c-91c2-9eb8ef82583f">
+<lexical-unit>
+<form lang="Hadza">
+<text>paˀnakwete</text>
+</form>
+</lexical-unit>
+<trait name="morph-type" value="root"/>
+<sense id="c22c9973-d2ef-47a0-b9ff-917fc12f784a" order="1">
+<grammatical-info value="noun"/>
+<gloss>
+<text>old.man</text>
+</gloss>
+</sense>
+</entry>
+</lift>

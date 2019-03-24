@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-03-24T10:56:04-08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="RG" DATE="2019-03-24T11:10:24-08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/richard/Dropbox/OCH/2016-11-14_Gudo_Story_2_(Bush_pig)/2016-11-14_Gudo_Story_2_(Bush_pig).wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./2016-11-14_Gudo_Story_2_(Bush_pig).wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/richard/Dropbox/OCH/2016-11-14_Gudo_Story_2_(Bush_pig)/2016-11-14_Gudo_Story_2_(Bush_pig).wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../2016-11-14_Gudo_Story_2_(Bush_pig)/2016-11-14_Gudo_Story_2_(Bush_pig).wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:e3c2254c-9f30-4383-922a-f0105a6fb9a5</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">1061</PROPERTY>
     </HEADER>
@@ -4961,12 +4961,10 @@
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Phonological Transcription" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="English Free Translation" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Word" TIME_ALIGNABLE="false"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LEXICON_REF="lr1" LINGUISTIC_TYPE_ID="Morpheme" TIME_ALIGNABLE="false"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LEXICON_REF="lr2" LINGUISTIC_TYPE_ID="Gloss" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Morpheme" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Gloss" TIME_ALIGNABLE="false"/>
     <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
     <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
-    <LEXICON_REF DATCAT_ID="" DATCAT_NAME="lexical-unit" LEXICON_ID="Open Corpus of Hadza Lexicon" LEXICON_NAME="Open Corpus of Hadza Lexicon" LEX_REF_ID="lr1" NAME="Open Corpus of Hadza Lexicon" TYPE="ELAN Lexicon Component" URL=""/>
-    <LEXICON_REF DATCAT_ID="" DATCAT_NAME="sense/gloss" LEXICON_ID="Open Corpus of Hadza Lexicon" LEXICON_NAME="Open Corpus of Hadza Lexicon" LEX_REF_ID="lr2" NAME="Open Corpus of Hadza Lexicon" TYPE="ELAN Lexicon Component" URL=""/>
 </ANNOTATION_DOCUMENT>

@@ -10,14 +10,26 @@
     <pref key="LayoutManager.ControlPanelWidth">
         <Int>200</Int>
     </pref>
+    <prefList key="Interlinear.VisibleTiers">
+        <String>REF</String>
+        <String>Woodburn Orthography@</String>
+        <String>Miller Orthography@</String>
+        <String>Swahili@</String>
+        <String>English@</String>
+        <String>Phonological Transcription@</String>
+        <String>Word@</String>
+        <String>Morpheme@</String>
+        <String>Gloss@</String>
+        <String>Notes@</String>
+    </prefList>
     <pref key="ExportPraatDialog.SelectTiersMode">
         <String>Tier</String>
     </pref>
     <pref key="TranscriptionTable.LastActiveRow">
-        <Int>29</Int>
+        <Int>5</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>24.571913</Float>
+        <Float>44.6865</Float>
     </pref>
     <prefList key="ExportTabDialog.TierOrder">
         <String>REF</String>
@@ -32,7 +44,7 @@
         <String>Notes@</String>
     </prefList>
     <pref key="LayoutManager.CurrentMode">
-        <Int>1</Int>
+        <Int>2</Int>
     </pref>
     <prefGroup key="TranscriptionMode.Temp.TierColors">
         <pref key="Miller Orthography@">
@@ -74,9 +86,21 @@
         <String>Notes</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>581264</Long>
+        <Long>77170</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
+    <prefList key="Interlinear.TierOrder">
+        <String>REF</String>
+        <String>Woodburn Orthography@</String>
+        <String>Miller Orthography@</String>
+        <String>Swahili@</String>
+        <String>English@</String>
+        <String>Phonological Transcription@</String>
+        <String>Word@</String>
+        <String>Morpheme@</String>
+        <String>Gloss@</String>
+        <String>Notes@</String>
+    </prefList>
     <pref key="MediaControlRate">
         <Float>1.0</Float>
     </pref>
@@ -92,10 +116,10 @@
         </prefList>
     </prefGroup>
     <pref key="TimeScaleBeginTime">
-        <Long>551149</Long>
+        <Long>76812</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>581264</Long>
+        <Long>77170</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="REF">
@@ -165,7 +189,7 @@
     </pref>
     <prefGroup key="TranscriptionTable.ColumnOrder"/>
     <pref key="SelectionEndTime">
-        <Long>594287</Long>
+        <Long>84331</Long>
     </pref>
     <pref key="ExportTabDialog.SelectTiersMode">
         <String>Tier</String>
@@ -227,6 +251,9 @@
     <pref key="MediaControlVolume">
         <Float>1.0</Float>
     </pref>
+    <pref key="Interlinear.SelectionOnly">
+        <Boolean>false</Boolean>
+    </pref>
     <prefList key="ExportPraatDialog.TierOrder">
         <String>REF</String>
         <String>Woodburn Orthography@</String>
@@ -251,7 +278,7 @@
         </pref>
     </prefGroup>
     <pref key="TranscriptionTable.LastActiveColumn">
-        <String>Phonological Transcription</String>
+        <String>Miller Orthography</String>
     </pref>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>

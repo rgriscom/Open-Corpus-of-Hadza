@@ -32,12 +32,6 @@
     </pref>
     <prefList key="ExportPraatDialog.selectedTiers">
         <String>REF</String>
-        <String>Swahili@</String>
-        <String>English@</String>
-        <String>Phonological Transcription@</String>
-        <String>Woodburn Orthography@</String>
-        <String>Miller Orthography@</String>
-        <String>Notes@</String>
     </prefList>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>7</Int>
@@ -48,6 +42,9 @@
     <pref key="LayoutManager.ControlPanelWidth">
         <Int>386</Int>
     </pref>
+    <pref key="SegmentationViewer.ZoomLevel">
+        <Float>29.0</Float>
+    </pref>
     <pref key="MultiTierViewer.ActiveTierName">
         <String>REF</String>
     </pref>
@@ -55,18 +52,33 @@
         <String>Tier</String>
     </pref>
     <pref key="TranscriptionTable.LastActiveRow">
-        <Int>37</Int>
+        <Int>30</Int>
     </pref>
     <prefGroup key="TranscriptionTable.ColumnOrder"/>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>87</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>464510</Long>
+        <Long>393533</Long>
+    </pref>
+    <pref key="ExportTabDialog.SelectTiersMode">
+        <String>Tier</String>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>46.49811</Float>
+        <Float>50.63291</Float>
     </pref>
+    <prefList key="ExportTabDialog.TierOrder">
+        <String>REF</String>
+        <String>Swahili@</String>
+        <String>English@</String>
+        <String>Phonological Transcription@</String>
+        <String>Word@</String>
+        <String>Morpheme@</String>
+        <String>Gloss@</String>
+        <String>Woodburn Orthography@</String>
+        <String>Miller Orthography@</String>
+        <String>Notes@</String>
+    </prefList>
     <pref key="LayoutManager.CurrentMode">
         <Int>2</Int>
     </pref>
@@ -125,6 +137,13 @@
             <Int>75</Int>
         </pref>
     </prefGroup>
+    <prefList key="ExportTabDialog.selectedTiers">
+        <String>REF</String>
+        <String>Swahili@</String>
+        <String>English@</String>
+        <String>Woodburn Orthography@</String>
+        <String>Miller Orthography@</String>
+    </prefList>
     <prefList key="CommentViewer.Columns.Order">
         <String>Start Time</String>
         <String>End Time</String>
@@ -144,7 +163,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">158,222</Object>
+        <Object class="java.awt.Point">142,212</Object>
+    </pref>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>29.197079</Float>
     </pref>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <prefList key="TranscriptionTable.ColumnTypes">
@@ -169,7 +191,7 @@
         <String>Notes@</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>457628</Long>
+        <Long>387213</Long>
     </pref>
     <pref key="TM.SignalViewer.ZoomLevel">
         <Float>5.0</Float>
@@ -198,10 +220,10 @@
         </prefList>
     </prefGroup>
     <pref key="TimeScaleBeginTime">
-        <Long>457284</Long>
+        <Long>386897</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>457628</Long>
+        <Long>387213</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="REF">
@@ -221,15 +243,21 @@
         <String>Notes@</String>
     </prefList>
     <pref key="TranscriptionTable.LastActiveColumn">
-        <String>English Free Translation</String>
+        <String>Swahili Free Translation</String>
     </pref>
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>151</Int>
     </pref>
     <prefList key="ExportPraatDialog.HiddenTiers">
+        <String>Swahili@</String>
+        <String>English@</String>
+        <String>Phonological Transcription@</String>
         <String>Word@</String>
         <String>Morpheme@</String>
         <String>Gloss@</String>
+        <String>Woodburn Orthography@</String>
+        <String>Miller Orthography@</String>
+        <String>Notes@</String>
     </prefList>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>
@@ -238,5 +266,12 @@
     <pref key="SegmentationManager.SelectedTabIndex">
         <Int>0</Int>
     </pref>
+    <prefList key="ExportTabDialog.HiddenTiers">
+        <String>Phonological Transcription@</String>
+        <String>Word@</String>
+        <String>Morpheme@</String>
+        <String>Gloss@</String>
+        <String>Notes@</String>
+    </prefList>
     <prefList key="TranscriptionTable.HiddenTiers"/>
 </preferences>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="RG" DATE="2019-09-22T19:07:05+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/richard/Dropbox/OCH/OCH Media Files/Elicited Data/hts_word-list_1991_09.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../OCH Media Files/Elicited Data/hts_word-list_1991_09.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:e0da87d2-2787-4915-ba3d-fd6dbcfddf4f</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">296</PROPERTY>
+    </HEADER>
+    <TIME_ORDER/>
+    <TIER LINGUISTIC_TYPE_REF="Reference" TIER_ID="REF"/>
+    <TIER LINGUISTIC_TYPE_REF="Swahili Free Translation" PARENT_REF="REF" TIER_ID="Swahili@"/>
+    <TIER LINGUISTIC_TYPE_REF="English Free Translation" PARENT_REF="REF" TIER_ID="English@"/>
+    <TIER LINGUISTIC_TYPE_REF="Phonological Transcription" PARENT_REF="REF" TIER_ID="Phonological Transcription@"/>
+    <TIER LINGUISTIC_TYPE_REF="Word" PARENT_REF="Phonological Transcription@" TIER_ID="Word@"/>
+    <TIER LINGUISTIC_TYPE_REF="Morpheme" PARENT_REF="Word@" TIER_ID="Morpheme@"/>
+    <TIER LINGUISTIC_TYPE_REF="Gloss" PARENT_REF="Morpheme@" TIER_ID="Gloss@"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Woodburn Orthography" PARENT_REF="REF" TIER_ID="Woodburn Orthography@"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Miller Orthography" PARENT_REF="REF" TIER_ID="Miller Orthography@"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Notes" PARENT_REF="REF" TIER_ID="Notes@"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Swahili Free Translation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Reference" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Orthographic Transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Phonological Transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="English Free Translation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Word" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Morpheme" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Gloss" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Woodburn Orthography" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Miller Orthography" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Notes" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

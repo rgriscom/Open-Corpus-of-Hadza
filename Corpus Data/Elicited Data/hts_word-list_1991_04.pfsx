@@ -17,7 +17,7 @@
         <Int>30</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>50.63291</Float>
+        <Float>50.0</Float>
     </pref>
     <prefList key="ExportTabDialog.TierOrder">
         <String>REF</String>
@@ -61,7 +61,7 @@
         <Object class="java.awt.Point">65,24</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>50.63291</Float>
+        <Float>50.0</Float>
     </pref>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <prefList key="TranscriptionTable.ColumnTypes">
@@ -74,7 +74,7 @@
         <String>Phonological Transcription</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>387213</Long>
+        <Long>2960</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="MediaControlRate">
@@ -92,10 +92,10 @@
         </prefList>
     </prefGroup>
     <pref key="TimeScaleBeginTime">
-        <Long>386897</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>387213</Long>
+        <Long>6960</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="REF">
@@ -162,7 +162,7 @@
         <Int>7</Int>
     </pref>
     <pref key="SegmentationViewer.ZoomLevel">
-        <Float>29.0</Float>
+        <Float>50.0</Float>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
         <String>REF</String>
@@ -172,7 +172,7 @@
         <Int>87</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>393533</Long>
+        <Long>7740</Long>
     </pref>
     <pref key="ExportTabDialog.SelectTiersMode">
         <String>Tier</String>

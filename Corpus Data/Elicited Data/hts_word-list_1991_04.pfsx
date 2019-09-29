@@ -92,7 +92,7 @@
         </prefList>
     </prefGroup>
     <pref key="TimeScaleBeginTime">
-        <Long>0</Long>
+        <Long>427680</Long>
     </pref>
     <pref key="MediaTime">
         <Long>6960</Long>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="RG" DATE="2019-09-29T13:00:28+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/richard/Dropbox/OCH/OCH Media Files/Elicited Data/hts_word-list_1991_08.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../OCH Media Files/Elicited Data/hts_word-list_1991_08.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:e0da87d2-2787-4915-ba3d-fd6dbcfddf4f</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">309</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="15025"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="28882"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="39425"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="41577"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="53047"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="55894"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="61063"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="65433"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="75175"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="81241"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="92397"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="94094"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="104983"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="134579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="145098"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="150364"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="163040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="168099"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="178586"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="186505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="199431"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="204501"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="216497"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="220491"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="234775"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="Reference" TIER_ID="REF">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a297" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a298" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a299" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a300" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a301" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a302" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a303" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a304" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a305" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a306" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a307" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a308" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a309" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Swahili Free Translation" PARENT_REF="REF" TIER_ID="Swahili@"/>
+    <TIER LINGUISTIC_TYPE_REF="English Free Translation" PARENT_REF="REF" TIER_ID="English@"/>
+    <TIER LINGUISTIC_TYPE_REF="Phonological Transcription" PARENT_REF="REF" TIER_ID="Phonological Transcription@"/>
+    <TIER LINGUISTIC_TYPE_REF="Word" PARENT_REF="Phonological Transcription@" TIER_ID="Word@"/>
+    <TIER LINGUISTIC_TYPE_REF="Morpheme" PARENT_REF="Word@" TIER_ID="Morpheme@"/>
+    <TIER LINGUISTIC_TYPE_REF="Gloss" PARENT_REF="Morpheme@" TIER_ID="Gloss@"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Woodburn Orthography" PARENT_REF="REF" TIER_ID="Woodburn Orthography@"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Miller Orthography" PARENT_REF="REF" TIER_ID="Miller Orthography@"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Notes" PARENT_REF="REF" TIER_ID="Notes@"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Swahili Free Translation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Reference" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Orthographic Transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Phonological Transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="English Free Translation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Word" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Morpheme" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Gloss" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Woodburn Orthography" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Miller Orthography" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Notes" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

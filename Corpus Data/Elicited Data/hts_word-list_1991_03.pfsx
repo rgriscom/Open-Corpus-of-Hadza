@@ -2,7 +2,7 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1301,744</Object>
+        <Object class="java.awt.Dimension">1848,1053</Object>
     </pref>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
@@ -10,14 +10,17 @@
     <pref key="LayoutManager.ControlPanelWidth">
         <Int>386</Int>
     </pref>
+    <pref key="MultiTierViewer.ShowNumberOfAnnotations">
+        <Boolean>false</Boolean>
+    </pref>
     <pref key="ExportPraatDialog.SelectTiersMode">
         <String>Tier</String>
     </pref>
     <pref key="TranscriptionTable.LastActiveRow">
-        <Int>30</Int>
+        <Int>29</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>50.0</Float>
+        <Float>61.185467</Float>
     </pref>
     <prefList key="ExportTabDialog.TierOrder">
         <String>REF</String>
@@ -58,10 +61,10 @@
         </pref>
     </prefGroup>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">65,24</Object>
+        <Object class="java.awt.Point">72,27</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>50.0</Float>
+        <Float>61.185467</Float>
     </pref>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <prefList key="TranscriptionTable.ColumnTypes">
@@ -92,10 +95,10 @@
         </prefList>
     </prefGroup>
     <pref key="TimeScaleBeginTime">
-        <Long>22682</Long>
+        <Long>19840</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>31400</Long>
+        <Long>27400</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="REF">
@@ -211,10 +214,6 @@
     </prefGroup>
     <prefList key="ExportTabDialog.selectedTiers">
         <String>REF</String>
-        <String>Swahili@</String>
-        <String>English@</String>
-        <String>Woodburn Orthography@</String>
-        <String>Miller Orthography@</String>
     </prefList>
     <prefList key="CommentViewer.Columns.Order">
         <String>Start Time</String>
@@ -268,10 +267,14 @@
         <Int>0</Int>
     </pref>
     <prefList key="ExportTabDialog.HiddenTiers">
+        <String>Swahili@</String>
+        <String>English@</String>
         <String>Phonological Transcription@</String>
         <String>Word@</String>
         <String>Morpheme@</String>
         <String>Gloss@</String>
+        <String>Woodburn Orthography@</String>
+        <String>Miller Orthography@</String>
         <String>Notes@</String>
     </prefList>
 </preferences>

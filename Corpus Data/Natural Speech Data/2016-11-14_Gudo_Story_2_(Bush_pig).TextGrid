@@ -1,0 +1,6166 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 215.257
+tiers? <exists>
+size = 8
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "REF"
+        xmin = 0.0
+        xmax = 215.257
+        intervals: size = 139
+        intervals [1]
+            xmin = 0.0
+            xmax = 49.783
+            text = ""
+        intervals [2]
+            xmin = 49.783
+            xmax = 53.6
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_01"
+        intervals [3]
+            xmin = 53.6
+            xmax = 54.933
+            text = ""
+        intervals [4]
+            xmin = 54.933
+            xmax = 56.964
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_02"
+        intervals [5]
+            xmin = 56.964
+            xmax = 57.664
+            text = ""
+        intervals [6]
+            xmin = 57.664
+            xmax = 58.898
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_03"
+        intervals [7]
+            xmin = 58.898
+            xmax = 59.631
+            text = ""
+        intervals [8]
+            xmin = 59.631
+            xmax = 61.647
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_04"
+        intervals [9]
+            xmin = 61.647
+            xmax = 62.431
+            text = ""
+        intervals [10]
+            xmin = 62.431
+            xmax = 63.848
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_05"
+        intervals [11]
+            xmin = 63.848
+            xmax = 64.064
+            text = ""
+        intervals [12]
+            xmin = 64.064
+            xmax = 64.914
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_06"
+        intervals [13]
+            xmin = 64.914
+            xmax = 65.597
+            text = ""
+        intervals [14]
+            xmin = 65.597
+            xmax = 67.097
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_07"
+        intervals [15]
+            xmin = 67.097
+            xmax = 68.397
+            text = ""
+        intervals [16]
+            xmin = 68.397
+            xmax = 69.697
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_08"
+        intervals [17]
+            xmin = 69.697
+            xmax = 70.63
+            text = ""
+        intervals [18]
+            xmin = 70.63
+            xmax = 72.531
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_09"
+        intervals [19]
+            xmin = 72.531
+            xmax = 75.421
+            text = ""
+        intervals [20]
+            xmin = 75.421
+            xmax = 77.321
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_10"
+        intervals [21]
+            xmin = 77.321
+            xmax = 78.504
+            text = ""
+        intervals [22]
+            xmin = 78.504
+            xmax = 79.321
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_11"
+        intervals [23]
+            xmin = 79.321
+            xmax = 79.971
+            text = ""
+        intervals [24]
+            xmin = 79.971
+            xmax = 81.171
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_12"
+        intervals [25]
+            xmin = 81.171
+            xmax = 82.004
+            text = ""
+        intervals [26]
+            xmin = 82.004
+            xmax = 84.64
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_13"
+        intervals [27]
+            xmin = 84.64
+            xmax = 86.323
+            text = ""
+        intervals [28]
+            xmin = 86.323
+            xmax = 90.685
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_14"
+        intervals [29]
+            xmin = 90.685
+            xmax = 90.751
+            text = ""
+        intervals [30]
+            xmin = 90.751
+            xmax = 92.218
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_15"
+        intervals [31]
+            xmin = 92.218
+            xmax = 92.401
+            text = ""
+        intervals [32]
+            xmin = 92.401
+            xmax = 93.907
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_16"
+        intervals [33]
+            xmin = 93.907
+            xmax = 93.973
+            text = ""
+        intervals [34]
+            xmin = 93.973
+            xmax = 95.729
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_17"
+        intervals [35]
+            xmin = 95.729
+            xmax = 95.829
+            text = ""
+        intervals [36]
+            xmin = 95.829
+            xmax = 97.562
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_18"
+        intervals [37]
+            xmin = 97.562
+            xmax = 98.262
+            text = ""
+        intervals [38]
+            xmin = 98.262
+            xmax = 99.586
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_19"
+        intervals [39]
+            xmin = 99.586
+            xmax = 99.943
+            text = ""
+        intervals [40]
+            xmin = 99.943
+            xmax = 101.724
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_20"
+        intervals [41]
+            xmin = 101.724
+            xmax = 101.874
+            text = ""
+        intervals [42]
+            xmin = 101.874
+            xmax = 104.857
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_21"
+        intervals [43]
+            xmin = 104.857
+            xmax = 104.974
+            text = ""
+        intervals [44]
+            xmin = 104.974
+            xmax = 106.895
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_22"
+        intervals [45]
+            xmin = 106.895
+            xmax = 107.012
+            text = ""
+        intervals [46]
+            xmin = 107.012
+            xmax = 107.678
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_23"
+        intervals [47]
+            xmin = 107.678
+            xmax = 108.078
+            text = ""
+        intervals [48]
+            xmin = 108.078
+            xmax = 109.454
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_24"
+        intervals [49]
+            xmin = 109.454
+            xmax = 109.504
+            text = ""
+        intervals [50]
+            xmin = 109.504
+            xmax = 110.771
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_25"
+        intervals [51]
+            xmin = 110.771
+            xmax = 111.588
+            text = ""
+        intervals [52]
+            xmin = 111.588
+            xmax = 113.187
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_26"
+        intervals [53]
+            xmin = 113.187
+            xmax = 113.687
+            text = ""
+        intervals [54]
+            xmin = 113.687
+            xmax = 114.943
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_27"
+        intervals [55]
+            xmin = 114.943
+            xmax = 115.059
+            text = ""
+        intervals [56]
+            xmin = 115.059
+            xmax = 116.093
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_28"
+        intervals [57]
+            xmin = 116.093
+            xmax = 116.943
+            text = ""
+        intervals [58]
+            xmin = 116.943
+            xmax = 118.259
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_29"
+        intervals [59]
+            xmin = 118.259
+            xmax = 119.609
+            text = ""
+        intervals [60]
+            xmin = 119.609
+            xmax = 120.459
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_30"
+        intervals [61]
+            xmin = 120.459
+            xmax = 121.076
+            text = ""
+        intervals [62]
+            xmin = 121.076
+            xmax = 122.293
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_31"
+        intervals [63]
+            xmin = 122.293
+            xmax = 122.643
+            text = ""
+        intervals [64]
+            xmin = 122.643
+            xmax = 124.472
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_32"
+        intervals [65]
+            xmin = 124.472
+            xmax = 124.572
+            text = ""
+        intervals [66]
+            xmin = 124.572
+            xmax = 125.189
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_33"
+        intervals [67]
+            xmin = 125.189
+            xmax = 125.522
+            text = ""
+        intervals [68]
+            xmin = 125.522
+            xmax = 126.289
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_34"
+        intervals [69]
+            xmin = 126.289
+            xmax = 127.056
+            text = ""
+        intervals [70]
+            xmin = 127.056
+            xmax = 129.039
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_35"
+        intervals [71]
+            xmin = 129.039
+            xmax = 129.189
+            text = ""
+        intervals [72]
+            xmin = 129.189
+            xmax = 131.572
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_36"
+        intervals [73]
+            xmin = 131.572
+            xmax = 131.706
+            text = ""
+        intervals [74]
+            xmin = 131.706
+            xmax = 133.956
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_37"
+        intervals [75]
+            xmin = 133.956
+            xmax = 134.466
+            text = ""
+        intervals [76]
+            xmin = 134.466
+            xmax = 135.991
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_38"
+        intervals [77]
+            xmin = 135.991
+            xmax = 136.857
+            text = ""
+        intervals [78]
+            xmin = 136.857
+            xmax = 138.09
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_39"
+        intervals [79]
+            xmin = 138.09
+            xmax = 138.657
+            text = ""
+        intervals [80]
+            xmin = 138.657
+            xmax = 139.624
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_40"
+        intervals [81]
+            xmin = 139.624
+            xmax = 139.874
+            text = ""
+        intervals [82]
+            xmin = 139.874
+            xmax = 140.89
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_41"
+        intervals [83]
+            xmin = 140.89
+            xmax = 141.341
+            text = ""
+        intervals [84]
+            xmin = 141.341
+            xmax = 142.416
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_42"
+        intervals [85]
+            xmin = 142.416
+            xmax = 142.691
+            text = ""
+        intervals [86]
+            xmin = 142.691
+            xmax = 144.936
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_43"
+        intervals [87]
+            xmin = 144.936
+            xmax = 145.052
+            text = ""
+        intervals [88]
+            xmin = 145.052
+            xmax = 148.327
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_44"
+        intervals [89]
+            xmin = 148.327
+            xmax = 148.561
+            text = ""
+        intervals [90]
+            xmin = 148.561
+            xmax = 151.011
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_45"
+        intervals [91]
+            xmin = 151.011
+            xmax = 151.26
+            text = ""
+        intervals [92]
+            xmin = 151.26
+            xmax = 152.677
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_46"
+        intervals [93]
+            xmin = 152.677
+            xmax = 152.777
+            text = ""
+        intervals [94]
+            xmin = 152.777
+            xmax = 153.61
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_47"
+        intervals [95]
+            xmin = 153.61
+            xmax = 154.077
+            text = ""
+        intervals [96]
+            xmin = 154.077
+            xmax = 155.003
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_48"
+        intervals [97]
+            xmin = 155.003
+            xmax = 155.922
+            text = ""
+        intervals [98]
+            xmin = 155.922
+            xmax = 158.805
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_49"
+        intervals [99]
+            xmin = 158.805
+            xmax = 158.922
+            text = ""
+        intervals [100]
+            xmin = 158.922
+            xmax = 161.739
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_50"
+        intervals [101]
+            xmin = 161.739
+            xmax = 161.856
+            text = ""
+        intervals [102]
+            xmin = 161.856
+            xmax = 162.743
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_51"
+        intervals [103]
+            xmin = 162.743
+            xmax = 162.81
+            text = ""
+        intervals [104]
+            xmin = 162.81
+            xmax = 164.343
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_52"
+        intervals [105]
+            xmin = 164.343
+            xmax = 164.526
+            text = ""
+        intervals [106]
+            xmin = 164.526
+            xmax = 167.176
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_53"
+        intervals [107]
+            xmin = 167.176
+            xmax = 167.593
+            text = ""
+        intervals [108]
+            xmin = 167.593
+            xmax = 168.359
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_54"
+        intervals [109]
+            xmin = 168.359
+            xmax = 168.759
+            text = ""
+        intervals [110]
+            xmin = 168.759
+            xmax = 170.828
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_55"
+        intervals [111]
+            xmin = 170.828
+            xmax = 170.894
+            text = ""
+        intervals [112]
+            xmin = 170.894
+            xmax = 171.944
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_56"
+        intervals [113]
+            xmin = 171.944
+            xmax = 173.111
+            text = ""
+        intervals [114]
+            xmin = 173.111
+            xmax = 174.815
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_57"
+        intervals [115]
+            xmin = 174.815
+            xmax = 174.865
+            text = ""
+        intervals [116]
+            xmin = 174.865
+            xmax = 175.848
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_58"
+        intervals [117]
+            xmin = 175.848
+            xmax = 175.881
+            text = ""
+        intervals [118]
+            xmin = 175.881
+            xmax = 177.481
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_59"
+        intervals [119]
+            xmin = 177.481
+            xmax = 178.198
+            text = ""
+        intervals [120]
+            xmin = 178.198
+            xmax = 179.781
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_60"
+        intervals [121]
+            xmin = 179.781
+            xmax = 179.914
+            text = ""
+        intervals [122]
+            xmin = 179.914
+            xmax = 183.065
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_61"
+        intervals [123]
+            xmin = 183.065
+            xmax = 183.081
+            text = ""
+        intervals [124]
+            xmin = 183.081
+            xmax = 185.38
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_62"
+        intervals [125]
+            xmin = 185.38
+            xmax = 187.532
+            text = ""
+        intervals [126]
+            xmin = 187.532
+            xmax = 189.365
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_63"
+        intervals [127]
+            xmin = 189.365
+            xmax = 189.649
+            text = ""
+        intervals [128]
+            xmin = 189.649
+            xmax = 191.355
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_64"
+        intervals [129]
+            xmin = 191.355
+            xmax = 191.371
+            text = ""
+        intervals [130]
+            xmin = 191.371
+            xmax = 193.44
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_65"
+        intervals [131]
+            xmin = 193.44
+            xmax = 193.624
+            text = ""
+        intervals [132]
+            xmin = 193.624
+            xmax = 195.459
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_66"
+        intervals [133]
+            xmin = 195.459
+            xmax = 195.542
+            text = ""
+        intervals [134]
+            xmin = 195.542
+            xmax = 197.292
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_67"
+        intervals [135]
+            xmin = 197.292
+            xmax = 197.442
+            text = ""
+        intervals [136]
+            xmin = 197.442
+            xmax = 198.592
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_68"
+        intervals [137]
+            xmin = 198.592
+            xmax = 201.775
+            text = ""
+        intervals [138]
+            xmin = 201.775
+            xmax = 203.858
+            text = "2016-11-14_Gudo_Story_2_(Bush_pig)_69"
+        intervals [139]
+            xmin = 203.858
+            xmax = 215.257
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "Orthographic Transcription@GB"
+        xmin = 0.0
+        xmax = 215.257
+        intervals: size = 139
+        intervals [1]
+            xmin = 0.0
+            xmax = 49.783
+            text = ""
+        intervals [2]
+            xmin = 49.783
+            xmax = 53.6
+            text = "baheamo paanakwete ichaame yombaga
+"
+        intervals [3]
+            xmin = 53.6
+            xmax = 54.933
+            text = ""
+        intervals [4]
+            xmin = 54.933
+            xmax = 56.964
+            text = "hakamo q'adabitina
+"
+        intervals [5]
+            xmin = 56.964
+            xmax = 57.664
+            text = ""
+        intervals [6]
+            xmin = 57.664
+            xmax = 58.898
+            text = "hamo tl'ueta
+"
+        intervals [7]
+            xmin = 58.898
+            xmax = 59.631
+            text = ""
+        intervals [8]
+            xmin = 59.631
+            xmax = 61.647
+            text = "amo tets'e atonena
+"
+        intervals [9]
+            xmin = 61.647
+            xmax = 62.431
+            text = ""
+        intervals [10]
+            xmin = 62.431
+            xmax = 63.848
+            text = "amo elaeta
+"
+        intervals [11]
+            xmin = 63.848
+            xmax = 64.064
+            text = ""
+        intervals [12]
+            xmin = 64.064
+            xmax = 64.914
+            text = "haka
+"
+        intervals [13]
+            xmin = 64.914
+            xmax = 65.597
+            text = ""
+        intervals [14]
+            xmin = 65.597
+            xmax = 67.097
+            text = "changanyaitaa
+"
+        intervals [15]
+            xmin = 67.097
+            xmax = 68.397
+            text = ""
+        intervals [16]
+            xmin = 68.397
+            xmax = 69.697
+            text = "atumbate
+"
+        intervals [17]
+            xmin = 69.697
+            xmax = 70.63
+            text = ""
+        intervals [18]
+            xmin = 70.63
+            xmax = 72.531
+            text = "aka n//'e ta //'anabema
+"
+        intervals [19]
+            xmin = 72.531
+            xmax = 75.421
+            text = ""
+        intervals [20]
+            xmin = 75.421
+            xmax = 77.321
+            text = "n//'aq'afena aka huth'lu zua
+"
+        intervals [21]
+            xmin = 77.321
+            xmax = 78.504
+            text = ""
+        intervals [22]
+            xmin = 78.504
+            xmax = 79.321
+            text = "hakachana
+"
+        intervals [23]
+            xmin = 79.321
+            xmax = 79.971
+            text = ""
+        intervals [24]
+            xmin = 79.971
+            xmax = 81.171
+            text = "!oboikaena
+"
+        intervals [25]
+            xmin = 81.171
+            xmax = 82.004
+            text = ""
+        intervals [26]
+            xmin = 82.004
+            xmax = 84.64
+            text = "gosangana atonena tl'aha //'aka
+"
+        intervals [27]
+            xmin = 84.64
+            xmax = 86.323
+            text = ""
+        intervals [28]
+            xmin = 86.323
+            xmax = 90.685
+            text = "ha amo gosanganakwamo lutl'u 
+"
+        intervals [29]
+            xmin = 90.685
+            xmax = 90.751
+            text = ""
+        intervals [30]
+            xmin = 90.751
+            xmax = 92.218
+            text = "chitaa manakoa
+"
+        intervals [31]
+            xmin = 92.218
+            xmax = 92.401
+            text = ""
+        intervals [32]
+            xmin = 92.401
+            xmax = 93.907
+            text = "||'emaaniye t'sao
+"
+        intervals [33]
+            xmin = 93.907
+            xmax = 93.973
+            text = ""
+        intervals [34]
+            xmin = 93.973
+            xmax = 95.729
+            text = "tet'se aniye het'sana
+"
+        intervals [35]
+            xmin = 95.729
+            xmax = 95.829
+            text = ""
+        intervals [36]
+            xmin = 95.829
+            xmax = 97.562
+            text = "eteza ete \\'akashaa
+"
+        intervals [37]
+            xmin = 97.562
+            xmax = 98.262
+            text = ""
+        intervals [38]
+            xmin = 98.262
+            xmax = 99.586
+            text = "etl'awika
+"
+        intervals [39]
+            xmin = 99.586
+            xmax = 99.943
+            text = ""
+        intervals [40]
+            xmin = 99.943
+            xmax = 101.724
+            text = "sl'ubanama amo esl'awi
+"
+        intervals [41]
+            xmin = 101.724
+            xmax = 101.874
+            text = ""
+        intervals [42]
+            xmin = 101.874
+            xmax = 104.857
+            text = "pukufuwema akwabee hiiyemeto ihia a hukwa 
+"
+        intervals [43]
+            xmin = 104.857
+            xmax = 104.974
+            text = ""
+        intervals [44]
+            xmin = 104.974
+            xmax = 106.895
+            text = "pukufuwema pukufuemamo
+"
+        intervals [45]
+            xmin = 106.895
+            xmax = 107.012
+            text = ""
+        intervals [46]
+            xmin = 107.012
+            xmax = 107.678
+            text = "hutl'u
+"
+        intervals [47]
+            xmin = 107.678
+            xmax = 108.078
+            text = ""
+        intervals [48]
+            xmin = 108.078
+            xmax = 109.454
+            text = "kwamo haka het'sana
+"
+        intervals [49]
+            xmin = 109.454
+            xmax = 109.504
+            text = ""
+        intervals [50]
+            xmin = 109.504
+            xmax = 110.771
+            text = "oo hachasi
+"
+        intervals [51]
+            xmin = 110.771
+            xmax = 111.588
+            text = ""
+        intervals [52]
+            xmin = 111.588
+            xmax = 113.187
+            text = "maianite ba ha\\'a
+"
+        intervals [53]
+            xmin = 113.187
+            xmax = 113.687
+            text = ""
+        intervals [54]
+            xmin = 113.687
+            xmax = 114.943
+            text = "kwamo ta hakamo
+"
+        intervals [55]
+            xmin = 114.943
+            xmax = 115.059
+            text = ""
+        intervals [56]
+            xmin = 115.059
+            xmax = 116.093
+            text = "tet'sehe
+"
+        intervals [57]
+            xmin = 116.093
+            xmax = 116.943
+            text = ""
+        intervals [58]
+            xmin = 116.943
+            xmax = 118.259
+            text = "gosangana hukwamoo
+"
+        intervals [59]
+            xmin = 118.259
+            xmax = 119.609
+            text = ""
+        intervals [60]
+            xmin = 119.609
+            xmax = 120.459
+            text = "hani
+"
+        intervals [61]
+            xmin = 120.459
+            xmax = 121.076
+            text = ""
+        intervals [62]
+            xmin = 121.076
+            xmax = 122.293
+            text = "akwabema
+"
+        intervals [63]
+            xmin = 122.293
+            xmax = 122.643
+            text = ""
+        intervals [64]
+            xmin = 122.643
+            xmax = 124.472
+            text = "pukufuwepe akwamo q'wati
+"
+        intervals [65]
+            xmin = 124.472
+            xmax = 124.572
+            text = ""
+        intervals [66]
+            xmin = 124.572
+            xmax = 125.189
+            text = "taa"
+        intervals [67]
+            xmin = 125.189
+            xmax = 125.522
+            text = ""
+        intervals [68]
+            xmin = 125.522
+            xmax = 126.289
+            text = "t'sititina
+"
+        intervals [69]
+            xmin = 126.289
+            xmax = 127.056
+            text = ""
+        intervals [70]
+            xmin = 127.056
+            xmax = 129.039
+            text = "kwamo ta taa atonena"
+        intervals [71]
+            xmin = 129.039
+            xmax = 129.189
+            text = ""
+        intervals [72]
+            xmin = 129.189
+            xmax = 131.572
+            text = "gosanganakicha chokwaemakicha kicha
+"
+        intervals [73]
+            xmin = 131.572
+            xmax = 131.706
+            text = ""
+        intervals [74]
+            xmin = 131.706
+            xmax = 133.956
+            text = "ha//aka \\eteya zua
+"
+        intervals [75]
+            xmin = 133.956
+            xmax = 134.466
+            text = ""
+        intervals [76]
+            xmin = 134.466
+            xmax = 135.991
+            text = "kwami ta \\eteya kami
+"
+        intervals [77]
+            xmin = 135.991
+            xmax = 136.857
+            text = ""
+        intervals [78]
+            xmin = 136.857
+            xmax = 138.09
+            text = "//'eke//'eana
+"
+        intervals [79]
+            xmin = 138.09
+            xmax = 138.657
+            text = ""
+        intervals [80]
+            xmin = 138.657
+            xmax = 139.624
+            text = "chakate
+"
+        intervals [81]
+            xmin = 139.624
+            xmax = 139.874
+            text = ""
+        intervals [82]
+            xmin = 139.874
+            xmax = 140.89
+            text = "hakana het'sana
+"
+        intervals [83]
+            xmin = 140.89
+            xmax = 141.341
+            text = ""
+        intervals [84]
+            xmin = 141.341
+            xmax = 142.416
+            text = "mamako
+"
+        intervals [85]
+            xmin = 142.416
+            xmax = 142.691
+            text = ""
+        intervals [86]
+            xmin = 142.691
+            xmax = 144.936
+            text = "kwameta mamako atonena
+"
+        intervals [87]
+            xmin = 144.936
+            xmax = 145.052
+            text = ""
+        intervals [88]
+            xmin = 145.052
+            xmax = 148.327
+            text = "t'sifi a ishoko atonena sekeme a unu
+"
+        intervals [89]
+            xmin = 148.327
+            xmax = 148.561
+            text = ""
+        intervals [90]
+            xmin = 148.561
+            xmax = 151.011
+            text = "aho atonena hamaihia kwamo"
+        intervals [91]
+            xmin = 151.011
+            xmax = 151.26
+            text = ""
+        intervals [92]
+            xmin = 151.26
+            xmax = 152.677
+            text = "!uu iche
+"
+        intervals [93]
+            xmin = 152.677
+            xmax = 152.777
+            text = ""
+        intervals [94]
+            xmin = 152.777
+            xmax = 153.61
+            text = "gashenga
+"
+        intervals [95]
+            xmin = 153.61
+            xmax = 154.077
+            text = ""
+        intervals [96]
+            xmin = 154.077
+            xmax = 155.003
+            text = "//'uwiko
+"
+        intervals [97]
+            xmin = 155.003
+            xmax = 155.922
+            text = ""
+        intervals [98]
+            xmin = 155.922
+            xmax = 158.805
+            text = "sameta t'sifi wainama mpaka kamo shaye
+"
+        intervals [99]
+            xmin = 158.805
+            xmax = 158.922
+            text = ""
+        intervals [100]
+            xmin = 158.922
+            xmax = 161.739
+            text = "ukukuhu olanakwe tashi
+"
+        intervals [101]
+            xmin = 161.739
+            xmax = 161.856
+            text = ""
+        intervals [102]
+            xmin = 161.856
+            xmax = 162.743
+            text = "
+"
+        intervals [103]
+            xmin = 162.743
+            xmax = 162.81
+            text = ""
+        intervals [104]
+            xmin = 162.81
+            xmax = 164.343
+            text = "aa hama yamua t'lekeya
+"
+        intervals [105]
+            xmin = 164.343
+            xmax = 164.526
+            text = ""
+        intervals [106]
+            xmin = 164.526
+            xmax = 167.176
+            text = "abesa hani hama het'sa t'lekeya keta abesa
+"
+        intervals [107]
+            xmin = 167.176
+            xmax = 167.593
+            text = ""
+        intervals [108]
+            xmin = 167.593
+            xmax = 168.359
+            text = "haka
+"
+        intervals [109]
+            xmin = 168.359
+            xmax = 168.759
+            text = ""
+        intervals [110]
+            xmin = 168.759
+            xmax = 170.828
+            text = "sekemehamae a manako het'sana
+"
+        intervals [111]
+            xmin = 170.828
+            xmax = 170.894
+            text = ""
+        intervals [112]
+            xmin = 170.894
+            xmax = 171.944
+            text = "ichinina het'sa
+"
+        intervals [113]
+            xmin = 171.944
+            xmax = 173.111
+            text = ""
+        intervals [114]
+            xmin = 173.111
+            xmax = 174.815
+            text = "bebeene atonena
+"
+        intervals [115]
+            xmin = 174.815
+            xmax = 174.865
+            text = ""
+        intervals [116]
+            xmin = 174.865
+            xmax = 175.848
+            text = "ishoko kota
+"
+        intervals [117]
+            xmin = 175.848
+            xmax = 175.881
+            text = ""
+        intervals [118]
+            xmin = 175.881
+            xmax = 177.481
+            text = "dinkiye //'ama
+"
+        intervals [119]
+            xmin = 177.481
+            xmax = 178.198
+            text = ""
+        intervals [120]
+            xmin = 178.198
+            xmax = 179.781
+            text = "kwamo ta tit'sia
+"
+        intervals [121]
+            xmin = 179.781
+            xmax = 179.914
+            text = ""
+        intervals [122]
+            xmin = 179.914
+            xmax = 183.065
+            text = "kota kukuyuleta //'ama t'luu
+"
+        intervals [123]
+            xmin = 183.065
+            xmax = 183.081
+            text = ""
+        intervals [124]
+            xmin = 183.081
+            xmax = 185.38
+            text = "//'uu //'uu sakamametama
+"
+        intervals [125]
+            xmin = 185.38
+            xmax = 187.532
+            text = ""
+        intervals [126]
+            xmin = 187.532
+            xmax = 189.365
+            text = "mpaka welapina kwamoshae
+"
+        intervals [127]
+            xmin = 189.365
+            xmax = 189.649
+            text = ""
+        intervals [128]
+            xmin = 189.649
+            xmax = 191.355
+            text = "kwamo ta shae keta aa"
+        intervals [129]
+            xmin = 191.355
+            xmax = 191.371
+            text = ""
+        intervals [130]
+            xmin = 191.371
+            xmax = 193.44
+            text = "hamaihia bawa samonaya
+"
+        intervals [131]
+            xmin = 193.44
+            xmax = 193.624
+            text = ""
+        intervals [132]
+            xmin = 193.624
+            xmax = 195.459
+            text = "ikaakwebe a q'watiye
+"
+        intervals [133]
+            xmin = 195.459
+            xmax = 195.542
+            text = ""
+        intervals [134]
+            xmin = 195.542
+            xmax = 197.292
+            text = "hama chokwaheyoneya"
+        intervals [135]
+            xmin = 197.292
+            xmax = 197.442
+            text = ""
+        intervals [136]
+            xmin = 197.442
+            xmax = 198.592
+            text = "mpaka a hamaisho"
+        intervals [137]
+            xmin = 198.592
+            xmax = 201.775
+            text = ""
+        intervals [138]
+            xmin = 201.775
+            xmax = 203.858
+            text = "sasamonayako //'uwiko"
+        intervals [139]
+            xmin = 203.858
+            xmax = 215.257
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "Swahili@GB"
+        xmin = 0.0
+        xmax = 215.257
+        intervals: size = 139
+        intervals [1]
+            xmin = 0.0
+            xmax = 49.783
+            text = ""
+        intervals [2]
+            xmin = 49.783
+            xmax = 53.6
+            text = "kuna mzee mmoja, jina lake yombaga
+"
+        intervals [3]
+            xmin = 53.6
+            xmax = 54.933
+            text = ""
+        intervals [4]
+            xmin = 54.933
+            xmax = 56.964
+            text = "amekwenda kwenye sumu
+"
+        intervals [5]
+            xmin = 56.964
+            xmax = 57.664
+            text = ""
+        intervals [6]
+            xmin = 57.664
+            xmax = 58.898
+            text = "akagema
+"
+        intervals [7]
+            xmin = 58.898
+            xmax = 59.631
+            text = ""
+        intervals [8]
+            xmin = 59.631
+            xmax = 61.647
+            text = "halafu akarudi sasa
+"
+        intervals [9]
+            xmin = 61.647
+            xmax = 62.431
+            text = ""
+        intervals [10]
+            xmin = 62.431
+            xmax = 63.848
+            text = "akaitengeneza
+"
+        intervals [11]
+            xmin = 63.848
+            xmax = 64.064
+            text = ""
+        intervals [12]
+            xmin = 64.064
+            xmax = 64.914
+            text = "aka
+"
+        intervals [13]
+            xmin = 64.914
+            xmax = 65.597
+            text = ""
+        intervals [14]
+            xmin = 65.597
+            xmax = 67.097
+            text = "akaichanganya
+"
+        intervals [15]
+            xmin = 67.097
+            xmax = 68.397
+            text = ""
+        intervals [16]
+            xmin = 68.397
+            xmax = 69.697
+            text = "na tumbaku
+"
+        intervals [17]
+            xmin = 69.697
+            xmax = 70.63
+            text = ""
+        intervals [18]
+            xmin = 70.63
+            xmax = 72.531
+            text = "akaweka sumu mishale yake
+"
+        intervals [19]
+            xmin = 72.531
+            xmax = 75.421
+            text = ""
+        intervals [20]
+            xmin = 75.421
+            xmax = 77.321
+            text = "mchana akaondoka
+"
+        intervals [21]
+            xmin = 77.321
+            xmax = 78.504
+            text = ""
+        intervals [22]
+            xmin = 78.504
+            xmax = 79.321
+            text = "akaelekea
+"
+        intervals [23]
+            xmin = 79.321
+            xmax = 79.971
+            text = ""
+        intervals [24]
+            xmin = 79.971
+            xmax = 81.171
+            text = "akaenda kuwindawinda
+"
+        intervals [25]
+            xmin = 81.171
+            xmax = 82.004
+            text = ""
+        intervals [26]
+            xmin = 82.004
+            xmax = 84.64
+            text = "akamkuta nguruwe akampiga
+"
+        intervals [27]
+            xmin = 84.64
+            xmax = 86.323
+            text = ""
+        intervals [28]
+            xmin = 86.323
+            xmax = 90.685
+            text = "akamfuata akamkuta amejirundika
+"
+        intervals [29]
+            xmin = 90.685
+            xmax = 90.751
+            text = ""
+        intervals [30]
+            xmin = 90.751
+            xmax = 92.218
+            text = "tumepata nyama
+"
+        intervals [31]
+            xmin = 92.218
+            xmax = 92.401
+            text = ""
+        intervals [32]
+            xmin = 92.401
+            xmax = 93.907
+            text = "akamkatia mkia haraka
+"
+        intervals [33]
+            xmin = 93.907
+            xmax = 93.973
+            text = ""
+        intervals [34]
+            xmin = 93.973
+            xmax = 95.729
+            text = "akarudi nyumbani haraka
+"
+        intervals [35]
+            xmin = 95.729
+            xmax = 95.829
+            text = ""
+        intervals [36]
+            xmin = 95.829
+            xmax = 97.562
+            text = "mje mbebebe
+"
+        intervals [37]
+            xmin = 97.562
+            xmax = 98.262
+            text = ""
+        intervals [38]
+            xmin = 98.262
+            xmax = 99.586
+            text = "akakumbuka
+"
+        intervals [39]
+            xmin = 99.586
+            xmax = 99.943
+            text = ""
+        intervals [40]
+            xmin = 99.943
+            xmax = 101.724
+            text = "akamfunika akakumbuka
+"
+        intervals [41]
+            xmin = 101.724
+            xmax = 101.874
+            text = ""
+        intervals [42]
+            xmin = 101.874
+            xmax = 104.857
+            text = "akamtoboa macho hii kitu inaweza kufufuka
+"
+        intervals [43]
+            xmin = 104.857
+            xmax = 104.974
+            text = ""
+        intervals [44]
+            xmin = 104.974
+            xmax = 106.895
+            text = "akazitoboa toboa
+"
+        intervals [45]
+            xmin = 106.895
+            xmax = 107.012
+            text = ""
+        intervals [46]
+            xmin = 107.012
+            xmax = 107.678
+            text = "akaondoka
+"
+        intervals [47]
+            xmin = 107.678
+            xmax = 108.078
+            text = ""
+        intervals [48]
+            xmin = 108.078
+            xmax = 109.454
+            text = "alipokwenda nyumbani
+"
+        intervals [49]
+            xmin = 109.454
+            xmax = 109.504
+            text = ""
+        intervals [50]
+            xmin = 109.504
+            xmax = 110.771
+            text = "oo nimemwua
+"
+        intervals [51]
+            xmin = 110.771
+            xmax = 111.588
+            text = ""
+        intervals [52]
+            xmin = 111.588
+            xmax = 113.187
+            text = "twendeni haraka kwa wote
+"
+        intervals [53]
+            xmin = 113.187
+            xmax = 113.687
+            text = ""
+        intervals [54]
+            xmin = 113.687
+            xmax = 114.943
+            text = "alipokwisha kwenda
+"
+        intervals [55]
+            xmin = 114.943
+            xmax = 115.059
+            text = ""
+        intervals [56]
+            xmin = 115.059
+            xmax = 116.093
+            text = "akarudi
+"
+        intervals [57]
+            xmin = 116.093
+            xmax = 116.943
+            text = ""
+        intervals [58]
+            xmin = 116.943
+            xmax = 118.259
+            text = "akamkuta amefufuka
+"
+        intervals [59]
+            xmin = 118.259
+            xmax = 119.609
+            text = ""
+        intervals [60]
+            xmin = 119.609
+            xmax = 120.459
+            text = "kumbe
+"
+        intervals [61]
+            xmin = 120.459
+            xmax = 121.076
+            text = ""
+        intervals [62]
+            xmin = 121.076
+            xmax = 122.293
+            text = "macho yake
+"
+        intervals [63]
+            xmin = 122.293
+            xmax = 122.643
+            text = ""
+        intervals [64]
+            xmin = 122.643
+            xmax = 124.472
+            text = "yametoboka hajaenda mbali
+"
+        intervals [65]
+            xmin = 124.472
+            xmax = 124.572
+            text = ""
+        intervals [66]
+            xmin = 124.572
+            xmax = 125.189
+            text = "amekwama
+"
+        intervals [67]
+            xmin = 125.189
+            xmax = 125.522
+            text = ""
+        intervals [68]
+            xmin = 125.522
+            xmax = 126.289
+            text = "kwenye mti
+
+"
+        intervals [69]
+            xmin = 126.289
+            xmax = 127.056
+            text = ""
+        intervals [70]
+            xmin = 127.056
+            xmax = 129.039
+            text = "alipokwisha kwama sasa
+"
+        intervals [71]
+            xmin = 129.039
+            xmax = 129.189
+            text = ""
+        intervals [72]
+            xmin = 129.189
+            xmax = 131.572
+            text = "wakamfuata wakamkuta waka
+"
+        intervals [73]
+            xmin = 131.572
+            xmax = 131.706
+            text = ""
+        intervals [74]
+            xmin = 131.706
+            xmax = 133.956
+            text = "wakamchoma choma wakamuua
+"
+        intervals [75]
+            xmin = 133.956
+            xmax = 134.466
+            text = ""
+        intervals [76]
+            xmin = 134.466
+            xmax = 135.991
+            text = "walipomuuwa waka
+"
+        intervals [77]
+            xmin = 135.991
+            xmax = 136.857
+            text = ""
+        intervals [78]
+            xmin = 136.857
+            xmax = 138.09
+            text = "wakamchuna
+"
+        intervals [79]
+            xmin = 138.09
+            xmax = 138.657
+            text = ""
+        intervals [80]
+            xmin = 138.657
+            xmax = 139.624
+            text = "wakabeba
+"
+        intervals [81]
+            xmin = 139.624
+            xmax = 139.874
+            text = ""
+        intervals [82]
+            xmin = 139.874
+            xmax = 140.89
+            text = "wakampeleka nyumbani
+"
+        intervals [83]
+            xmin = 140.89
+            xmax = 141.341
+            text = ""
+        intervals [84]
+            xmin = 141.341
+            xmax = 142.416
+            text = "wakapika
+"
+        intervals [85]
+            xmin = 142.416
+            xmax = 142.691
+            text = ""
+        intervals [86]
+            xmin = 142.691
+            xmax = 144.936
+            text = "walipokwisha pika sasa
+"
+        intervals [87]
+            xmin = 144.936
+            xmax = 145.052
+            text = ""
+        intervals [88]
+            xmin = 145.052
+            xmax = 148.327
+            text = "kukawa jioni watu wakala
+"
+        intervals [89]
+            xmin = 148.327
+            xmax = 148.561
+            text = ""
+        intervals [90]
+            xmin = 148.561
+            xmax = 151.011
+            text = "sijui hii kitu kika
+"
+        intervals [91]
+            xmin = 151.011
+            xmax = 151.26
+            text = ""
+        intervals [92]
+            xmin = 151.26
+            xmax = 152.677
+            text = "!uu iche 
+"
+        intervals [93]
+            xmin = 152.677
+            xmax = 152.777
+            text = ""
+        intervals [94]
+            xmin = 152.777
+            xmax = 153.61
+            text = "kitu
+"
+        intervals [95]
+            xmin = 153.61
+            xmax = 154.077
+            text = ""
+        intervals [96]
+            xmin = 154.077
+            xmax = 155.003
+            text = "mbu
+"
+        intervals [97]
+            xmin = 155.003
+            xmax = 155.922
+            text = ""
+        intervals [98]
+            xmin = 155.922
+            xmax = 158.805
+            text = "wakaqatwa na mbu mpaka pakakucha
+"
+        intervals [99]
+            xmin = 158.805
+            xmax = 158.922
+            text = ""
+        intervals [100]
+            xmin = 158.922
+            xmax = 161.739
+            text = "watoto wakalia hamna
+"
+        intervals [101]
+            xmin = 161.739
+            xmax = 161.856
+            text = ""
+        intervals [102]
+            xmin = 161.856
+            xmax = 162.743
+            text = "mpaka waka
+"
+        intervals [103]
+            xmin = 162.743
+            xmax = 162.81
+            text = ""
+        intervals [104]
+            xmin = 162.81
+            xmax = 164.343
+            text = "aa hii sehemu ni mbaya
+"
+        intervals [105]
+            xmin = 164.343
+            xmax = 164.526
+            text = ""
+        intervals [106]
+            xmin = 164.526
+            xmax = 167.176
+            text = "hii kambi ni mbaya tuhame
+"
+        intervals [107]
+            xmin = 167.176
+            xmax = 167.593
+            text = ""
+        intervals [108]
+            xmin = 167.593
+            xmax = 168.359
+            text = "wakaenda
+"
+        intervals [109]
+            xmin = 168.359
+            xmax = 168.759
+            text = ""
+        intervals [110]
+            xmin = 168.759
+            xmax = 170.828
+            text = "wakaendelea kula nyama nyumbani
+"
+        intervals [111]
+            xmin = 170.828
+            xmax = 170.894
+            text = ""
+        intervals [112]
+            xmin = 170.894
+            xmax = 171.944
+            text = "kwenye kambi nyingine
+"
+        intervals [113]
+            xmin = 171.944
+            xmax = 173.111
+            text = ""
+        intervals [114]
+            xmin = 173.111
+            xmax = 174.815
+            text = "palepale sasa
+"
+        intervals [115]
+            xmin = 174.815
+            xmax = 174.865
+            text = ""
+        intervals [116]
+            xmin = 174.865
+            xmax = 175.848
+            text = "jua lika
+"
+        intervals [117]
+            xmin = 175.848
+            xmax = 175.881
+            text = ""
+        intervals [118]
+            xmin = 175.881
+            xmax = 177.481
+            text = "lika chwea tena
+"
+        intervals [119]
+            xmin = 177.481
+            xmax = 178.198
+            text = ""
+        intervals [120]
+            xmin = 178.198
+            xmax = 179.781
+            text = "ilipokua giza
+"
+        intervals [121]
+            xmin = 179.781
+            xmax = 179.914
+            text = ""
+        intervals [122]
+            xmin = 179.914
+            xmax = 183.065
+            text = "ikaanza kuwauma tena 
+"
+        intervals [123]
+            xmin = 183.065
+            xmax = 183.081
+            text = ""
+        intervals [124]
+            xmin = 183.081
+            xmax = 185.38
+            text = "uuuuu ikawa uma
+"
+        intervals [125]
+            xmin = 185.38
+            xmax = 187.532
+            text = ""
+        intervals [126]
+            xmin = 187.532
+            xmax = 189.365
+            text = "mpaka kesho kulipo kucha
+"
+        intervals [127]
+            xmin = 189.365
+            xmax = 189.649
+            text = ""
+        intervals [128]
+            xmin = 189.649
+            xmax = 191.355
+            text = "palipo kucha wakasema aa
+"
+        intervals [129]
+            xmin = 191.355
+            xmax = 191.371
+            text = ""
+        intervals [130]
+            xmin = 191.371
+            xmax = 193.44
+            text = "hii kitu mzee itatumaliza
+"
+        intervals [131]
+            xmin = 193.44
+            xmax = 193.624
+            text = ""
+        intervals [132]
+            xmin = 193.624
+            xmax = 195.459
+            text = "hata kama tukienda mbali
+"
+        intervals [133]
+            xmin = 195.459
+            xmax = 195.542
+            text = ""
+        intervals [134]
+            xmin = 195.542
+            xmax = 197.292
+            text = "huyu anatufuata
+"
+        intervals [135]
+            xmin = 197.292
+            xmax = 197.442
+            text = ""
+        intervals [136]
+            xmin = 197.442
+            xmax = 198.592
+            text = "mpaka sasa
+"
+        intervals [137]
+            xmin = 198.592
+            xmax = 201.775
+            text = ""
+        intervals [138]
+            xmin = 201.775
+            xmax = 203.858
+            text = "mbu wanatuuma
+"
+        intervals [139]
+            xmin = 203.858
+            xmax = 215.257
+            text = ""
+    item[4]:
+        class = "IntervalTier"
+        name = "English@GB"
+        xmin = 0.0
+        xmax = 215.257
+        intervals: size = 139
+        intervals [1]
+            xmin = 0.0
+            xmax = 49.783
+            text = ""
+        intervals [2]
+            xmin = 49.783
+            xmax = 53.6
+            text = "There is an elder, his name is Yombaga"
+        intervals [3]
+            xmin = 53.6
+            xmax = 54.933
+            text = ""
+        intervals [4]
+            xmin = 54.933
+            xmax = 56.964
+            text = "He has gone to look for poison"
+        intervals [5]
+            xmin = 56.964
+            xmax = 57.664
+            text = ""
+        intervals [6]
+            xmin = 57.664
+            xmax = 58.898
+            text = "He cut (it)"
+        intervals [7]
+            xmin = 58.898
+            xmax = 59.631
+            text = ""
+        intervals [8]
+            xmin = 59.631
+            xmax = 61.647
+            text = "Then he returned"
+        intervals [9]
+            xmin = 61.647
+            xmax = 62.431
+            text = ""
+        intervals [10]
+            xmin = 62.431
+            xmax = 63.848
+            text = "He prepared (it)"
+        intervals [11]
+            xmin = 63.848
+            xmax = 64.064
+            text = ""
+        intervals [12]
+            xmin = 64.064
+            xmax = 64.914
+            text = "Then he..."
+        intervals [13]
+            xmin = 64.914
+            xmax = 65.597
+            text = ""
+        intervals [14]
+            xmin = 65.597
+            xmax = 67.097
+            text = "He mixed it"
+        intervals [15]
+            xmin = 67.097
+            xmax = 68.397
+            text = ""
+        intervals [16]
+            xmin = 68.397
+            xmax = 69.697
+            text = "with tobacco"
+        intervals [17]
+            xmin = 69.697
+            xmax = 70.63
+            text = ""
+        intervals [18]
+            xmin = 70.63
+            xmax = 72.531
+            text = "He put the poison on his arrows"
+        intervals [19]
+            xmin = 72.531
+            xmax = 75.421
+            text = ""
+        intervals [20]
+            xmin = 75.421
+            xmax = 77.321
+            text = "In the afternoon he left"
+        intervals [21]
+            xmin = 77.321
+            xmax = 78.504
+            text = ""
+        intervals [22]
+            xmin = 78.504
+            xmax = 79.321
+            text = "He went towards..."
+        intervals [23]
+            xmin = 79.321
+            xmax = 79.971
+            text = ""
+        intervals [24]
+            xmin = 79.971
+            xmax = 81.171
+            text = "He went to hunt"
+        intervals [25]
+            xmin = 81.171
+            xmax = 82.004
+            text = ""
+        intervals [26]
+            xmin = 82.004
+            xmax = 84.64
+            text = "He met a pig and shot it"
+        intervals [27]
+            xmin = 84.64
+            xmax = 86.323
+            text = ""
+        intervals [28]
+            xmin = 86.323
+            xmax = 90.685
+            text = "He followed it and found it, it had collapsed"
+        intervals [29]
+            xmin = 90.685
+            xmax = 90.751
+            text = ""
+        intervals [30]
+            xmin = 90.751
+            xmax = 92.218
+            text = "We have gotten meat"
+        intervals [31]
+            xmin = 92.218
+            xmax = 92.401
+            text = ""
+        intervals [32]
+            xmin = 92.401
+            xmax = 93.907
+            text = "He cut the tail quickly"
+        intervals [33]
+            xmin = 93.907
+            xmax = 93.973
+            text = ""
+        intervals [34]
+            xmin = 93.973
+            xmax = 95.729
+            text = "Then he returned home quickly"
+        intervals [35]
+            xmin = 95.729
+            xmax = 95.829
+            text = ""
+        intervals [36]
+            xmin = 95.829
+            xmax = 97.562
+            text = """Come and carry it!"""
+        intervals [37]
+            xmin = 97.562
+            xmax = 98.262
+            text = ""
+        intervals [38]
+            xmin = 98.262
+            xmax = 99.586
+            text = "He remembered"
+        intervals [39]
+            xmin = 99.586
+            xmax = 99.943
+            text = ""
+        intervals [40]
+            xmin = 99.943
+            xmax = 101.724
+            text = "He concealed him and he remembered"
+        intervals [41]
+            xmin = 101.724
+            xmax = 101.874
+            text = ""
+        intervals [42]
+            xmin = 101.874
+            xmax = 104.857
+            text = "He poked out the eyes, thinking this thing could be revived"
+        intervals [43]
+            xmin = 104.857
+            xmax = 104.974
+            text = ""
+        intervals [44]
+            xmin = 104.974
+            xmax = 106.895
+            text = "He poked out the eyes"
+        intervals [45]
+            xmin = 106.895
+            xmax = 107.012
+            text = ""
+        intervals [46]
+            xmin = 107.012
+            xmax = 107.678
+            text = "And left"
+        intervals [47]
+            xmin = 107.678
+            xmax = 108.078
+            text = ""
+        intervals [48]
+            xmin = 108.078
+            xmax = 109.454
+            text = "When he went home"
+        intervals [49]
+            xmin = 109.454
+            xmax = 109.504
+            text = ""
+        intervals [50]
+            xmin = 109.504
+            xmax = 110.771
+            text = """Oh, I killed it!"""
+        intervals [51]
+            xmin = 110.771
+            xmax = 111.588
+            text = ""
+        intervals [52]
+            xmin = 111.588
+            xmax = 113.187
+            text = """Let's go, everyone!"""
+        intervals [53]
+            xmin = 113.187
+            xmax = 113.687
+            text = ""
+        intervals [54]
+            xmin = 113.687
+            xmax = 114.943
+            text = "When he finished going"
+        intervals [55]
+            xmin = 114.943
+            xmax = 115.059
+            text = ""
+        intervals [56]
+            xmin = 115.059
+            xmax = 116.093
+            text = "He returned"
+        intervals [57]
+            xmin = 116.093
+            xmax = 116.943
+            text = ""
+        intervals [58]
+            xmin = 116.943
+            xmax = 118.259
+            text = "He found it, and it had revived"
+        intervals [59]
+            xmin = 118.259
+            xmax = 119.609
+            text = ""
+        intervals [60]
+            xmin = 119.609
+            xmax = 120.459
+            text = "Lo!"
+        intervals [61]
+            xmin = 120.459
+            xmax = 121.076
+            text = ""
+        intervals [62]
+            xmin = 121.076
+            xmax = 122.293
+            text = "It's eyes"
+        intervals [63]
+            xmin = 122.293
+            xmax = 122.643
+            text = ""
+        intervals [64]
+            xmin = 122.643
+            xmax = 124.472
+            text = "had been pierced, it had not gone far"
+        intervals [65]
+            xmin = 124.472
+            xmax = 124.572
+            text = ""
+        intervals [66]
+            xmin = 124.572
+            xmax = 125.189
+            text = "It was stuck"
+        intervals [67]
+            xmin = 125.189
+            xmax = 125.522
+            text = ""
+        intervals [68]
+            xmin = 125.522
+            xmax = 126.289
+            text = "In a tree"
+        intervals [69]
+            xmin = 126.289
+            xmax = 127.056
+            text = ""
+        intervals [70]
+            xmin = 127.056
+            xmax = 129.039
+            text = "When it was no longer stuck"
+        intervals [71]
+            xmin = 129.039
+            xmax = 129.189
+            text = ""
+        intervals [72]
+            xmin = 129.189
+            xmax = 131.572
+            text = "They followed it and found it, they..."
+        intervals [73]
+            xmin = 131.572
+            xmax = 131.706
+            text = ""
+        intervals [74]
+            xmin = 131.706
+            xmax = 133.956
+            text = "They pierced it and killed it"
+        intervals [75]
+            xmin = 133.956
+            xmax = 134.466
+            text = ""
+        intervals [76]
+            xmin = 134.466
+            xmax = 135.991
+            text = "When they killed it, they"
+        intervals [77]
+            xmin = 135.991
+            xmax = 136.857
+            text = ""
+        intervals [78]
+            xmin = 136.857
+            xmax = 138.09
+            text = "They skinned it"
+        intervals [79]
+            xmin = 138.09
+            xmax = 138.657
+            text = ""
+        intervals [80]
+            xmin = 138.657
+            xmax = 139.624
+            text = "They carried it"
+        intervals [81]
+            xmin = 139.624
+            xmax = 139.874
+            text = ""
+        intervals [82]
+            xmin = 139.874
+            xmax = 140.89
+            text = "They took it home"
+        intervals [83]
+            xmin = 140.89
+            xmax = 141.341
+            text = ""
+        intervals [84]
+            xmin = 141.341
+            xmax = 142.416
+            text = "They cooked"
+        intervals [85]
+            xmin = 142.416
+            xmax = 142.691
+            text = ""
+        intervals [86]
+            xmin = 142.691
+            xmax = 144.936
+            text = "When they were done cooking"
+        intervals [87]
+            xmin = 144.936
+            xmax = 145.052
+            text = ""
+        intervals [88]
+            xmin = 145.052
+            xmax = 148.327
+            text = "It was evening and people ate"
+        intervals [89]
+            xmin = 148.327
+            xmax = 148.561
+            text = ""
+        intervals [90]
+            xmin = 148.561
+            xmax = 151.011
+            text = "I don't know this thing"
+        intervals [91]
+            xmin = 151.011
+            xmax = 151.26
+            text = ""
+        intervals [92]
+            xmin = 151.26
+            xmax = 152.677
+            text = "Oh!"
+        intervals [93]
+            xmin = 152.677
+            xmax = 152.777
+            text = ""
+        intervals [94]
+            xmin = 152.777
+            xmax = 153.61
+            text = "Thing"
+        intervals [95]
+            xmin = 153.61
+            xmax = 154.077
+            text = ""
+        intervals [96]
+            xmin = 154.077
+            xmax = 155.003
+            text = "Mosquitoes"
+        intervals [97]
+            xmin = 155.003
+            xmax = 155.922
+            text = ""
+        intervals [98]
+            xmin = 155.922
+            xmax = 158.805
+            text = "They were bit by mosquitoes until morning"
+        intervals [99]
+            xmin = 158.805
+            xmax = 158.922
+            text = ""
+        intervals [100]
+            xmin = 158.922
+            xmax = 161.739
+            text = "The children didn't sleep"
+        intervals [101]
+            xmin = 161.739
+            xmax = 161.856
+            text = ""
+        intervals [102]
+            xmin = 161.856
+            xmax = 162.743
+            text = "Until they..."
+        intervals [103]
+            xmin = 162.743
+            xmax = 162.81
+            text = ""
+        intervals [104]
+            xmin = 162.81
+            xmax = 164.343
+            text = "Ah this part is bad"
+        intervals [105]
+            xmin = 164.343
+            xmax = 164.526
+            text = ""
+        intervals [106]
+            xmin = 164.526
+            xmax = 167.176
+            text = "This camp is bad, let's move"
+        intervals [107]
+            xmin = 167.176
+            xmax = 167.593
+            text = ""
+        intervals [108]
+            xmin = 167.593
+            xmax = 168.359
+            text = "They went"
+        intervals [109]
+            xmin = 168.359
+            xmax = 168.759
+            text = ""
+        intervals [110]
+            xmin = 168.759
+            xmax = 170.828
+            text = "They continued to eat meet at home"
+        intervals [111]
+            xmin = 170.828
+            xmax = 170.894
+            text = ""
+        intervals [112]
+            xmin = 170.894
+            xmax = 171.944
+            text = "At another camp"
+        intervals [113]
+            xmin = 171.944
+            xmax = 173.111
+            text = ""
+        intervals [114]
+            xmin = 173.111
+            xmax = 174.815
+            text = "Right there"
+        intervals [115]
+            xmin = 174.815
+            xmax = 174.865
+            text = ""
+        intervals [116]
+            xmin = 174.865
+            xmax = 175.848
+            text = "The sun..."
+        intervals [117]
+            xmin = 175.848
+            xmax = 175.881
+            text = ""
+        intervals [118]
+            xmin = 175.881
+            xmax = 177.481
+            text = "The sun set again"
+        intervals [119]
+            xmin = 177.481
+            xmax = 178.198
+            text = ""
+        intervals [120]
+            xmin = 178.198
+            xmax = 179.781
+            text = "When it was dark"
+        intervals [121]
+            xmin = 179.781
+            xmax = 179.914
+            text = ""
+        intervals [122]
+            xmin = 179.914
+            xmax = 183.065
+            text = "It started to hurt again"
+        intervals [123]
+            xmin = 183.065
+            xmax = 183.081
+            text = ""
+        intervals [124]
+            xmin = 183.081
+            xmax = 185.38
+            text = "Ooooh it hurt!"
+        intervals [125]
+            xmin = 185.38
+            xmax = 187.532
+            text = ""
+        intervals [126]
+            xmin = 187.532
+            xmax = 189.365
+            text = "Until tomorrow when it was morning"
+        intervals [127]
+            xmin = 189.365
+            xmax = 189.649
+            text = ""
+        intervals [128]
+            xmin = 189.649
+            xmax = 191.355
+            text = "When it was morning they said ""Aah!"""
+        intervals [129]
+            xmin = 191.355
+            xmax = 191.371
+            text = ""
+        intervals [130]
+            xmin = 191.371
+            xmax = 193.44
+            text = """This thing, elder, it will finish us..."""
+        intervals [131]
+            xmin = 193.44
+            xmax = 193.624
+            text = ""
+        intervals [132]
+            xmin = 193.624
+            xmax = 195.459
+            text = """even if we go far."""
+        intervals [133]
+            xmin = 195.459
+            xmax = 195.542
+            text = ""
+        intervals [134]
+            xmin = 195.542
+            xmax = 197.292
+            text = """This one is following us,"""
+        intervals [135]
+            xmin = 197.292
+            xmax = 197.442
+            text = ""
+        intervals [136]
+            xmin = 197.442
+            xmax = 198.592
+            text = """until now,"""
+        intervals [137]
+            xmin = 198.592
+            xmax = 201.775
+            text = ""
+        intervals [138]
+            xmin = 201.775
+            xmax = 203.858
+            text = """the mosquitoes are hurting us."""
+        intervals [139]
+            xmin = 203.858
+            xmax = 215.257
+            text = ""
+    item[5]:
+        class = "IntervalTier"
+        name = "Phonological Transcription@GB"
+        xmin = 0.0
+        xmax = 215.257
+        intervals: size = 139
+        intervals [1]
+            xmin = 0.0
+            xmax = 49.783
+            text = ""
+        intervals [2]
+            xmin = 49.783
+            xmax = 53.6
+            text = "baheˀamo paˀanakwete itʃaːme jombaga"
+        intervals [3]
+            xmin = 53.6
+            xmax = 54.933
+            text = ""
+        intervals [4]
+            xmin = 54.933
+            xmax = 56.964
+            text = "hakamo ǃˀadabitina"
+        intervals [5]
+            xmin = 56.964
+            xmax = 57.664
+            text = ""
+        intervals [6]
+            xmin = 57.664
+            xmax = 58.898
+            text = "hamo cˀuˀeta"
+        intervals [7]
+            xmin = 58.898
+            xmax = 59.631
+            text = ""
+        intervals [8]
+            xmin = 59.631
+            xmax = 61.647
+            text = "amo tetsˀe atonena"
+        intervals [9]
+            xmin = 61.647
+            xmax = 62.431
+            text = ""
+        intervals [10]
+            xmin = 62.431
+            xmax = 63.848
+            text = "amo elaˀeta "
+        intervals [11]
+            xmin = 63.848
+            xmax = 64.064
+            text = ""
+        intervals [12]
+            xmin = 64.064
+            xmax = 64.914
+            text = "hakaŋ"
+        intervals [13]
+            xmin = 64.914
+            xmax = 65.597
+            text = ""
+        intervals [14]
+            xmin = 65.597
+            xmax = 67.097
+            text = "tʃaŋgadʒaˀitaʔa"
+        intervals [15]
+            xmin = 67.097
+            xmax = 68.397
+            text = ""
+        intervals [16]
+            xmin = 68.397
+            xmax = 69.697
+            text = "atumbate"
+        intervals [17]
+            xmin = 69.697
+            xmax = 70.63
+            text = ""
+        intervals [18]
+            xmin = 70.63
+            xmax = 72.531
+            text = "aka ǁˀetaǁˀanabema"
+        intervals [19]
+            xmin = 72.531
+            xmax = 75.421
+            text = ""
+        intervals [20]
+            xmin = 75.421
+            xmax = 77.321
+            text = "ǁˀaǃˀafena aka hucʰudzu"
+        intervals [21]
+            xmin = 77.321
+            xmax = 78.504
+            text = ""
+        intervals [22]
+            xmin = 78.504
+            xmax = 79.321
+            text = "hakatʃana	"
+        intervals [23]
+            xmin = 79.321
+            xmax = 79.971
+            text = ""
+        intervals [24]
+            xmin = 79.971
+            xmax = 81.171
+            text = "ǃoboikaˀena"
+        intervals [25]
+            xmin = 81.171
+            xmax = 82.004
+            text = ""
+        intervals [26]
+            xmin = 82.004
+            xmax = 84.64
+            text = "gosaŋgana atonena cˀaha ǁˀaka
+"
+        intervals [27]
+            xmin = 84.64
+            xmax = 86.323
+            text = ""
+        intervals [28]
+            xmin = 86.323
+            xmax = 90.685
+            text = "ha amo gosaŋanakwamo lucˀu 
+"
+        intervals [29]
+            xmin = 90.685
+            xmax = 90.751
+            text = ""
+        intervals [30]
+            xmin = 90.751
+            xmax = 92.218
+            text = "tʃitaː manakoˀa
+"
+        intervals [31]
+            xmin = 92.218
+            xmax = 92.401
+            text = ""
+        intervals [32]
+            xmin = 92.401
+            xmax = 93.907
+            text = "ǁˀemaːnije tsˀao "
+        intervals [33]
+            xmin = 93.907
+            xmax = 93.973
+            text = ""
+        intervals [34]
+            xmin = 93.973
+            xmax = 95.729
+            text = "tetsˀe anije hetsˀana
+"
+        intervals [35]
+            xmin = 95.729
+            xmax = 95.829
+            text = ""
+        intervals [36]
+            xmin = 95.829
+            xmax = 97.562
+            text = "etedza ete ǁˀakaʃaː
+"
+        intervals [37]
+            xmin = 97.562
+            xmax = 98.262
+            text = ""
+        intervals [38]
+            xmin = 98.262
+            xmax = 99.586
+            text = "ecˀawika"
+        intervals [39]
+            xmin = 99.586
+            xmax = 99.943
+            text = ""
+        intervals [40]
+            xmin = 99.943
+            xmax = 101.724
+            text = "ˀubanama amo eˀawi
+"
+        intervals [41]
+            xmin = 101.724
+            xmax = 101.874
+            text = ""
+        intervals [42]
+            xmin = 101.874
+            xmax = 104.857
+            text = "pukufuwema akwabeː hiːjemeto ihia a hukwa 
+"
+        intervals [43]
+            xmin = 104.857
+            xmax = 104.974
+            text = ""
+        intervals [44]
+            xmin = 104.974
+            xmax = 106.895
+            text = "pukufuwema pukufuemamo
+"
+        intervals [45]
+            xmin = 106.895
+            xmax = 107.012
+            text = ""
+        intervals [46]
+            xmin = 107.012
+            xmax = 107.678
+            text = "hucˀu
+"
+        intervals [47]
+            xmin = 107.678
+            xmax = 108.078
+            text = ""
+        intervals [48]
+            xmin = 108.078
+            xmax = 109.454
+            text = "kwamo haka hetsana
+"
+        intervals [49]
+            xmin = 109.454
+            xmax = 109.504
+            text = ""
+        intervals [50]
+            xmin = 109.504
+            xmax = 110.771
+            text = "oː hatʃasi
+"
+        intervals [51]
+            xmin = 110.771
+            xmax = 111.588
+            text = ""
+        intervals [52]
+            xmin = 111.588
+            xmax = 113.187
+            text = "maiˀanite ba haǁˀa
+"
+        intervals [53]
+            xmin = 113.187
+            xmax = 113.687
+            text = ""
+        intervals [54]
+            xmin = 113.687
+            xmax = 114.943
+            text = "kwamo ta hakamo
+"
+        intervals [55]
+            xmin = 114.943
+            xmax = 115.059
+            text = ""
+        intervals [56]
+            xmin = 115.059
+            xmax = 116.093
+            text = "tetsˀehe
+"
+        intervals [57]
+            xmin = 116.093
+            xmax = 116.943
+            text = ""
+        intervals [58]
+            xmin = 116.943
+            xmax = 118.259
+            text = "gosaŋgana hukwa
+"
+        intervals [59]
+            xmin = 118.259
+            xmax = 119.609
+            text = ""
+        intervals [60]
+            xmin = 119.609
+            xmax = 120.459
+            text = "hani
+"
+        intervals [61]
+            xmin = 120.459
+            xmax = 121.076
+            text = ""
+        intervals [62]
+            xmin = 121.076
+            xmax = 122.293
+            text = "akwabema
+"
+        intervals [63]
+            xmin = 122.293
+            xmax = 122.643
+            text = ""
+        intervals [64]
+            xmin = 122.643
+            xmax = 124.472
+            text = "pukufuwepe akwamo ǃˀwati
+"
+        intervals [65]
+            xmin = 124.472
+            xmax = 124.572
+            text = ""
+        intervals [66]
+            xmin = 124.572
+            xmax = 125.189
+            text = "taː"
+        intervals [67]
+            xmin = 125.189
+            xmax = 125.522
+            text = ""
+        intervals [68]
+            xmin = 125.522
+            xmax = 126.289
+            text = "tsˀititina
+"
+        intervals [69]
+            xmin = 126.289
+            xmax = 127.056
+            text = ""
+        intervals [70]
+            xmin = 127.056
+            xmax = 129.039
+            text = "kwamo ta taː atonena"
+        intervals [71]
+            xmin = 129.039
+            xmax = 129.189
+            text = ""
+        intervals [72]
+            xmin = 129.189
+            xmax = 131.572
+            text = "gosaŋganakitʃa tʃokwaemakitʃa kitʃa
+"
+        intervals [73]
+            xmin = 131.572
+            xmax = 131.706
+            text = ""
+        intervals [74]
+            xmin = 131.706
+            xmax = 133.956
+            text = "haǁaka ǁeteja dzua
+"
+        intervals [75]
+            xmin = 133.956
+            xmax = 134.466
+            text = ""
+        intervals [76]
+            xmin = 134.466
+            xmax = 135.991
+            text = "kwami ta ǁeteja kami
+"
+        intervals [77]
+            xmin = 135.991
+            xmax = 136.857
+            text = ""
+        intervals [78]
+            xmin = 136.857
+            xmax = 138.09
+            text = "ǁˀekeǁˀeˀana "
+        intervals [79]
+            xmin = 138.09
+            xmax = 138.657
+            text = ""
+        intervals [80]
+            xmin = 138.657
+            xmax = 139.624
+            text = "tʃakate
+"
+        intervals [81]
+            xmin = 139.624
+            xmax = 139.874
+            text = ""
+        intervals [82]
+            xmin = 139.874
+            xmax = 140.89
+            text = "hakana hetsˀana
+"
+        intervals [83]
+            xmin = 140.89
+            xmax = 141.341
+            text = ""
+        intervals [84]
+            xmin = 141.341
+            xmax = 142.416
+            text = "mamako
+"
+        intervals [85]
+            xmin = 142.416
+            xmax = 142.691
+            text = ""
+        intervals [86]
+            xmin = 142.691
+            xmax = 144.936
+            text = "kwameta mamako atonena
+"
+        intervals [87]
+            xmin = 144.936
+            xmax = 145.052
+            text = ""
+        intervals [88]
+            xmin = 145.052
+            xmax = 148.327
+            text = "tsˀifi a iʃoko atonena sekeme a unu
+"
+        intervals [89]
+            xmin = 148.327
+            xmax = 148.561
+            text = ""
+        intervals [90]
+            xmin = 148.561
+            xmax = 151.011
+            text = "aho atonena hamaihia kwamo"
+        intervals [91]
+            xmin = 151.011
+            xmax = 151.26
+            text = ""
+        intervals [92]
+            xmin = 151.26
+            xmax = 152.677
+            text = "!uˀu itʃe
+"
+        intervals [93]
+            xmin = 152.677
+            xmax = 152.777
+            text = ""
+        intervals [94]
+            xmin = 152.777
+            xmax = 153.61
+            text = "gaʃeŋga
+"
+        intervals [95]
+            xmin = 153.61
+            xmax = 154.077
+            text = ""
+        intervals [96]
+            xmin = 154.077
+            xmax = 155.003
+            text = "ǁˀuwiko
+"
+        intervals [97]
+            xmin = 155.003
+            xmax = 155.922
+            text = ""
+        intervals [98]
+            xmin = 155.922
+            xmax = 158.805
+            text = "sameta tsˀifi wainama mpaka kamo ʃaje
+"
+        intervals [99]
+            xmin = 158.805
+            xmax = 158.922
+            text = ""
+        intervals [100]
+            xmin = 158.922
+            xmax = 161.739
+            text = "ukukuhu olanakwe taʃi
+"
+        intervals [101]
+            xmin = 161.739
+            xmax = 161.856
+            text = ""
+        intervals [102]
+            xmin = 161.856
+            xmax = 162.743
+            text = "mpaki keta
+"
+        intervals [103]
+            xmin = 162.743
+            xmax = 162.81
+            text = ""
+        intervals [104]
+            xmin = 162.81
+            xmax = 164.343
+            text = "aː hama jamua cˀekeja
+"
+        intervals [105]
+            xmin = 164.343
+            xmax = 164.526
+            text = ""
+        intervals [106]
+            xmin = 164.526
+            xmax = 167.176
+            text = "abesa hani hama hetsˀa cˀekeja keta abesa
+"
+        intervals [107]
+            xmin = 167.176
+            xmax = 167.593
+            text = ""
+        intervals [108]
+            xmin = 167.593
+            xmax = 168.359
+            text = "haka"
+        intervals [109]
+            xmin = 168.359
+            xmax = 168.759
+            text = ""
+        intervals [110]
+            xmin = 168.759
+            xmax = 170.828
+            text = "sekemehamae a manako hetsˀana
+"
+        intervals [111]
+            xmin = 170.828
+            xmax = 170.894
+            text = ""
+        intervals [112]
+            xmin = 170.894
+            xmax = 171.944
+            text = "itʃinina hetsˀa
+"
+        intervals [113]
+            xmin = 171.944
+            xmax = 173.111
+            text = ""
+        intervals [114]
+            xmin = 173.111
+            xmax = 174.815
+            text = "bebeˀene atonena
+"
+        intervals [115]
+            xmin = 174.815
+            xmax = 174.865
+            text = ""
+        intervals [116]
+            xmin = 174.865
+            xmax = 175.848
+            text = "iʃoko kota
+"
+        intervals [117]
+            xmin = 175.848
+            xmax = 175.881
+            text = ""
+        intervals [118]
+            xmin = 175.881
+            xmax = 177.481
+            text = "dinkije ǁˀama
+"
+        intervals [119]
+            xmin = 177.481
+            xmax = 178.198
+            text = ""
+        intervals [120]
+            xmin = 178.198
+            xmax = 179.781
+            text = "kwamo ta titsˀia
+"
+        intervals [121]
+            xmin = 179.781
+            xmax = 179.914
+            text = ""
+        intervals [122]
+            xmin = 179.914
+            xmax = 183.065
+            text = "kota kukujuleta ǁˀama cˀuː
+"
+        intervals [123]
+            xmin = 183.065
+            xmax = 183.081
+            text = ""
+        intervals [124]
+            xmin = 183.081
+            xmax = 185.38
+            text = "ǁˀuu ǁˀuu sakamametama
+"
+        intervals [125]
+            xmin = 185.38
+            xmax = 187.532
+            text = ""
+        intervals [126]
+            xmin = 187.532
+            xmax = 189.365
+            text = "mpaka welapina kwamoʃae
+"
+        intervals [127]
+            xmin = 189.365
+            xmax = 189.649
+            text = ""
+        intervals [128]
+            xmin = 189.649
+            xmax = 191.355
+            text = "kwamo ta ʃae keta aa"
+        intervals [129]
+            xmin = 191.355
+            xmax = 191.371
+            text = ""
+        intervals [130]
+            xmin = 191.371
+            xmax = 193.44
+            text = "hamaihia bawa samonaja
+"
+        intervals [131]
+            xmin = 193.44
+            xmax = 193.624
+            text = ""
+        intervals [132]
+            xmin = 193.624
+            xmax = 195.459
+            text = "ikaːkwebe a ǃ'watije
+"
+        intervals [133]
+            xmin = 195.459
+            xmax = 195.542
+            text = ""
+        intervals [134]
+            xmin = 195.542
+            xmax = 197.292
+            text = "hama tʃokwahejoneja"
+        intervals [135]
+            xmin = 197.292
+            xmax = 197.442
+            text = ""
+        intervals [136]
+            xmin = 197.442
+            xmax = 198.592
+            text = "mpaka a hamaiʃo"
+        intervals [137]
+            xmin = 198.592
+            xmax = 201.775
+            text = ""
+        intervals [138]
+            xmin = 201.775
+            xmax = 203.858
+            text = "sasamonajako ǁˀuwiko"
+        intervals [139]
+            xmin = 203.858
+            xmax = 215.257
+            text = ""
+    item[6]:
+        class = "IntervalTier"
+        name = "Word@GB"
+        xmin = 0.0
+        xmax = 215.257
+        intervals: size = 248
+        intervals [1]
+            xmin = 0.0
+            xmax = 49.783
+            text = ""
+        intervals [2]
+            xmin = 49.783
+            xmax = 50.737
+            text = "baheˀamo"
+        intervals [3]
+            xmin = 50.737
+            xmax = 51.691
+            text = "paˀnakwete"
+        intervals [4]
+            xmin = 51.691
+            xmax = 52.645
+            text = "itʃaːme"
+        intervals [5]
+            xmin = 52.645
+            xmax = 53.6
+            text = "jombaga"
+        intervals [6]
+            xmin = 53.6
+            xmax = 54.933
+            text = ""
+        intervals [7]
+            xmin = 54.933
+            xmax = 55.948
+            text = "hakamo"
+        intervals [8]
+            xmin = 55.948
+            xmax = 56.964
+            text = "ǃˀadabitina"
+        intervals [9]
+            xmin = 56.964
+            xmax = 57.664
+            text = ""
+        intervals [10]
+            xmin = 57.664
+            xmax = 58.281
+            text = "hamo"
+        intervals [11]
+            xmin = 58.281
+            xmax = 58.898
+            text = "cˀuˀeta"
+        intervals [12]
+            xmin = 58.898
+            xmax = 59.631
+            text = ""
+        intervals [13]
+            xmin = 59.631
+            xmax = 60.303
+            text = "amo"
+        intervals [14]
+            xmin = 60.303
+            xmax = 60.975
+            text = "tetsˀe"
+        intervals [15]
+            xmin = 60.975
+            xmax = 61.647
+            text = "atonena"
+        intervals [16]
+            xmin = 61.647
+            xmax = 62.431
+            text = ""
+        intervals [17]
+            xmin = 62.431
+            xmax = 63.139
+            text = "amo"
+        intervals [18]
+            xmin = 63.139
+            xmax = 63.848
+            text = "elaˀeta"
+        intervals [19]
+            xmin = 63.848
+            xmax = 64.064
+            text = ""
+        intervals [20]
+            xmin = 64.064
+            xmax = 64.914
+            text = "hakaŋ"
+        intervals [21]
+            xmin = 64.914
+            xmax = 65.597
+            text = ""
+        intervals [22]
+            xmin = 65.597
+            xmax = 67.097
+            text = "tʃaŋgadʒaˀitaʔa"
+        intervals [23]
+            xmin = 67.097
+            xmax = 68.397
+            text = ""
+        intervals [24]
+            xmin = 68.397
+            xmax = 69.697
+            text = "atumbate"
+        intervals [25]
+            xmin = 69.697
+            xmax = 70.63
+            text = ""
+        intervals [26]
+            xmin = 70.63
+            xmax = 71.58
+            text = "aka"
+        intervals [27]
+            xmin = 71.58
+            xmax = 72.531
+            text = "ǁˀetaǁˀanabema"
+        intervals [28]
+            xmin = 72.531
+            xmax = 75.421
+            text = ""
+        intervals [29]
+            xmin = 75.421
+            xmax = 76.054
+            text = "ǁˀaǃˀafena"
+        intervals [30]
+            xmin = 76.054
+            xmax = 76.687
+            text = "aka"
+        intervals [31]
+            xmin = 76.687
+            xmax = 77.321
+            text = "hucʰudzu"
+        intervals [32]
+            xmin = 77.321
+            xmax = 78.504
+            text = ""
+        intervals [33]
+            xmin = 78.504
+            xmax = 79.321
+            text = "hakatʃana"
+        intervals [34]
+            xmin = 79.321
+            xmax = 79.971
+            text = ""
+        intervals [35]
+            xmin = 79.971
+            xmax = 81.171
+            text = "ǃoboikaˀena"
+        intervals [36]
+            xmin = 81.171
+            xmax = 82.004
+            text = ""
+        intervals [37]
+            xmin = 82.004
+            xmax = 82.663
+            text = "gosaŋgana"
+        intervals [38]
+            xmin = 82.663
+            xmax = 83.322
+            text = "atonena"
+        intervals [39]
+            xmin = 83.322
+            xmax = 83.981
+            text = "cˀaha"
+        intervals [40]
+            xmin = 83.981
+            xmax = 84.64
+            text = "ǁˀaka"
+        intervals [41]
+            xmin = 84.64
+            xmax = 86.323
+            text = ""
+        intervals [42]
+            xmin = 86.323
+            xmax = 87.413
+            text = "ha"
+        intervals [43]
+            xmin = 87.413
+            xmax = 88.504
+            text = "amo"
+        intervals [44]
+            xmin = 88.504
+            xmax = 89.594
+            text = "gosaŋanakwamo"
+        intervals [45]
+            xmin = 89.594
+            xmax = 90.685
+            text = "lucˀu"
+        intervals [46]
+            xmin = 90.685
+            xmax = 90.751
+            text = ""
+        intervals [47]
+            xmin = 90.751
+            xmax = 91.484
+            text = "tʃitaː"
+        intervals [48]
+            xmin = 91.484
+            xmax = 92.218
+            text = "manakoˀa"
+        intervals [49]
+            xmin = 92.218
+            xmax = 92.401
+            text = ""
+        intervals [50]
+            xmin = 92.401
+            xmax = 93.154
+            text = "ǁˀemaːnije"
+        intervals [51]
+            xmin = 93.154
+            xmax = 93.907
+            text = "tsˀao"
+        intervals [52]
+            xmin = 93.907
+            xmax = 93.973
+            text = ""
+        intervals [53]
+            xmin = 93.973
+            xmax = 94.558
+            text = "tetsˀe"
+        intervals [54]
+            xmin = 94.558
+            xmax = 95.143
+            text = "anije"
+        intervals [55]
+            xmin = 95.143
+            xmax = 95.729
+            text = "hetsˀana"
+        intervals [56]
+            xmin = 95.729
+            xmax = 95.829
+            text = ""
+        intervals [57]
+            xmin = 95.829
+            xmax = 96.406
+            text = "etedza"
+        intervals [58]
+            xmin = 96.406
+            xmax = 96.984
+            text = "ete"
+        intervals [59]
+            xmin = 96.984
+            xmax = 97.562
+            text = "ǁˀakaʃaː"
+        intervals [60]
+            xmin = 97.562
+            xmax = 98.262
+            text = ""
+        intervals [61]
+            xmin = 98.262
+            xmax = 99.586
+            text = "ecˀawika"
+        intervals [62]
+            xmin = 99.586
+            xmax = 99.943
+            text = ""
+        intervals [63]
+            xmin = 99.943
+            xmax = 100.536
+            text = "ˀubanama"
+        intervals [64]
+            xmin = 100.536
+            xmax = 101.13
+            text = "amo"
+        intervals [65]
+            xmin = 101.13
+            xmax = 101.724
+            text = "eˀawi"
+        intervals [66]
+            xmin = 101.724
+            xmax = 101.874
+            text = ""
+        intervals [67]
+            xmin = 101.874
+            xmax = 102.371
+            text = "pukufuwema"
+        intervals [68]
+            xmin = 102.371
+            xmax = 102.868
+            text = "akwabeː"
+        intervals [69]
+            xmin = 102.868
+            xmax = 103.365
+            text = "hiːjemeto"
+        intervals [70]
+            xmin = 103.365
+            xmax = 103.862
+            text = "ihia"
+        intervals [71]
+            xmin = 103.862
+            xmax = 104.359
+            text = "a"
+        intervals [72]
+            xmin = 104.359
+            xmax = 104.857
+            text = "hukwa"
+        intervals [73]
+            xmin = 104.857
+            xmax = 104.974
+            text = ""
+        intervals [74]
+            xmin = 104.974
+            xmax = 105.934
+            text = "pukufuwema"
+        intervals [75]
+            xmin = 105.934
+            xmax = 106.895
+            text = "pukufuemamo"
+        intervals [76]
+            xmin = 106.895
+            xmax = 107.012
+            text = ""
+        intervals [77]
+            xmin = 107.012
+            xmax = 107.678
+            text = "hucˀu"
+        intervals [78]
+            xmin = 107.678
+            xmax = 108.078
+            text = ""
+        intervals [79]
+            xmin = 108.078
+            xmax = 108.536
+            text = "kwamo"
+        intervals [80]
+            xmin = 108.536
+            xmax = 108.995
+            text = "haka"
+        intervals [81]
+            xmin = 108.995
+            xmax = 109.454
+            text = "hetsana"
+        intervals [82]
+            xmin = 109.454
+            xmax = 109.504
+            text = ""
+        intervals [83]
+            xmin = 109.504
+            xmax = 110.137
+            text = "oː"
+        intervals [84]
+            xmin = 110.137
+            xmax = 110.771
+            text = "hatʃasi"
+        intervals [85]
+            xmin = 110.771
+            xmax = 111.588
+            text = ""
+        intervals [86]
+            xmin = 111.588
+            xmax = 112.121
+            text = "maiˀanite"
+        intervals [87]
+            xmin = 112.121
+            xmax = 112.654
+            text = "ba"
+        intervals [88]
+            xmin = 112.654
+            xmax = 113.187
+            text = "haǁˀa"
+        intervals [89]
+            xmin = 113.187
+            xmax = 113.687
+            text = ""
+        intervals [90]
+            xmin = 113.687
+            xmax = 114.105
+            text = "kwamo"
+        intervals [91]
+            xmin = 114.105
+            xmax = 114.524
+            text = "ta"
+        intervals [92]
+            xmin = 114.524
+            xmax = 114.943
+            text = "hakamo"
+        intervals [93]
+            xmin = 114.943
+            xmax = 115.059
+            text = ""
+        intervals [94]
+            xmin = 115.059
+            xmax = 116.093
+            text = "tetsˀehe"
+        intervals [95]
+            xmin = 116.093
+            xmax = 116.943
+            text = ""
+        intervals [96]
+            xmin = 116.943
+            xmax = 117.601
+            text = "gosaŋgana"
+        intervals [97]
+            xmin = 117.601
+            xmax = 118.259
+            text = "hukwa"
+        intervals [98]
+            xmin = 118.259
+            xmax = 119.609
+            text = ""
+        intervals [99]
+            xmin = 119.609
+            xmax = 120.459
+            text = "hani"
+        intervals [100]
+            xmin = 120.459
+            xmax = 121.076
+            text = ""
+        intervals [101]
+            xmin = 121.076
+            xmax = 122.293
+            text = "akwabema"
+        intervals [102]
+            xmin = 122.293
+            xmax = 122.643
+            text = ""
+        intervals [103]
+            xmin = 122.643
+            xmax = 123.252
+            text = "pukufuwepe"
+        intervals [104]
+            xmin = 123.252
+            xmax = 123.862
+            text = "akwamo"
+        intervals [105]
+            xmin = 123.862
+            xmax = 124.472
+            text = "ǃˀwati"
+        intervals [106]
+            xmin = 124.472
+            xmax = 124.572
+            text = ""
+        intervals [107]
+            xmin = 124.572
+            xmax = 125.189
+            text = "taː"
+        intervals [108]
+            xmin = 125.189
+            xmax = 125.522
+            text = ""
+        intervals [109]
+            xmin = 125.522
+            xmax = 126.289
+            text = "tsˀititina"
+        intervals [110]
+            xmin = 126.289
+            xmax = 127.056
+            text = ""
+        intervals [111]
+            xmin = 127.056
+            xmax = 127.551
+            text = "kwamo"
+        intervals [112]
+            xmin = 127.551
+            xmax = 128.047
+            text = "ta"
+        intervals [113]
+            xmin = 128.047
+            xmax = 128.543
+            text = "taː"
+        intervals [114]
+            xmin = 128.543
+            xmax = 129.039
+            text = "atonena"
+        intervals [115]
+            xmin = 129.039
+            xmax = 129.189
+            text = ""
+        intervals [116]
+            xmin = 129.189
+            xmax = 129.983
+            text = "gosaŋganakitʃa"
+        intervals [117]
+            xmin = 129.983
+            xmax = 130.777
+            text = "tʃokwaemakitʃa"
+        intervals [118]
+            xmin = 130.777
+            xmax = 131.572
+            text = "kitʃa"
+        intervals [119]
+            xmin = 131.572
+            xmax = 131.706
+            text = ""
+        intervals [120]
+            xmin = 131.706
+            xmax = 132.456
+            text = "haǁaka"
+        intervals [121]
+            xmin = 132.456
+            xmax = 133.206
+            text = "ǁeteja"
+        intervals [122]
+            xmin = 133.206
+            xmax = 133.956
+            text = "dzua"
+        intervals [123]
+            xmin = 133.956
+            xmax = 134.466
+            text = ""
+        intervals [124]
+            xmin = 134.466
+            xmax = 134.847
+            text = "kwami"
+        intervals [125]
+            xmin = 134.847
+            xmax = 135.228
+            text = "ta"
+        intervals [126]
+            xmin = 135.228
+            xmax = 135.609
+            text = "ǁeteja"
+        intervals [127]
+            xmin = 135.609
+            xmax = 135.991
+            text = "kami"
+        intervals [128]
+            xmin = 135.991
+            xmax = 136.857
+            text = ""
+        intervals [129]
+            xmin = 136.857
+            xmax = 138.09
+            text = "ǁˀekeǁˀeˀana"
+        intervals [130]
+            xmin = 138.09
+            xmax = 138.657
+            text = ""
+        intervals [131]
+            xmin = 138.657
+            xmax = 139.624
+            text = "tʃakate"
+        intervals [132]
+            xmin = 139.624
+            xmax = 139.874
+            text = ""
+        intervals [133]
+            xmin = 139.874
+            xmax = 140.382
+            text = "hakana"
+        intervals [134]
+            xmin = 140.382
+            xmax = 140.89
+            text = "hetsˀana"
+        intervals [135]
+            xmin = 140.89
+            xmax = 141.341
+            text = ""
+        intervals [136]
+            xmin = 141.341
+            xmax = 142.416
+            text = "mamako"
+        intervals [137]
+            xmin = 142.416
+            xmax = 142.691
+            text = ""
+        intervals [138]
+            xmin = 142.691
+            xmax = 143.439
+            text = "kwameta"
+        intervals [139]
+            xmin = 143.439
+            xmax = 144.187
+            text = "mamako"
+        intervals [140]
+            xmin = 144.187
+            xmax = 144.936
+            text = "atonena"
+        intervals [141]
+            xmin = 144.936
+            xmax = 145.052
+            text = ""
+        intervals [142]
+            xmin = 145.052
+            xmax = 145.519
+            text = "tsˀifi"
+        intervals [143]
+            xmin = 145.519
+            xmax = 145.987
+            text = "a"
+        intervals [144]
+            xmin = 145.987
+            xmax = 146.455
+            text = "iʃoko"
+        intervals [145]
+            xmin = 146.455
+            xmax = 146.923
+            text = "atonena"
+        intervals [146]
+            xmin = 146.923
+            xmax = 147.391
+            text = "sekeme"
+        intervals [147]
+            xmin = 147.391
+            xmax = 147.859
+            text = "a"
+        intervals [148]
+            xmin = 147.859
+            xmax = 148.327
+            text = "unu"
+        intervals [149]
+            xmin = 148.327
+            xmax = 148.561
+            text = ""
+        intervals [150]
+            xmin = 148.561
+            xmax = 149.173
+            text = "aho"
+        intervals [151]
+            xmin = 149.173
+            xmax = 149.786
+            text = "atonena"
+        intervals [152]
+            xmin = 149.786
+            xmax = 150.398
+            text = "hamaihia"
+        intervals [153]
+            xmin = 150.398
+            xmax = 151.011
+            text = "kwamo"
+        intervals [154]
+            xmin = 151.011
+            xmax = 151.26
+            text = ""
+        intervals [155]
+            xmin = 151.26
+            xmax = 151.968
+            text = "!uˀu"
+        intervals [156]
+            xmin = 151.968
+            xmax = 152.677
+            text = "itʃe"
+        intervals [157]
+            xmin = 152.677
+            xmax = 152.777
+            text = ""
+        intervals [158]
+            xmin = 152.777
+            xmax = 153.61
+            text = "gaʃeŋga"
+        intervals [159]
+            xmin = 153.61
+            xmax = 154.077
+            text = ""
+        intervals [160]
+            xmin = 154.077
+            xmax = 155.003
+            text = "ǁˀuwiko"
+        intervals [161]
+            xmin = 155.003
+            xmax = 155.922
+            text = ""
+        intervals [162]
+            xmin = 155.922
+            xmax = 156.402
+            text = "sameta"
+        intervals [163]
+            xmin = 156.402
+            xmax = 156.883
+            text = "tsˀifi"
+        intervals [164]
+            xmin = 156.883
+            xmax = 157.363
+            text = "wainama"
+        intervals [165]
+            xmin = 157.363
+            xmax = 157.844
+            text = "mpaka"
+        intervals [166]
+            xmin = 157.844
+            xmax = 158.324
+            text = "kamo"
+        intervals [167]
+            xmin = 158.324
+            xmax = 158.805
+            text = "ʃaje"
+        intervals [168]
+            xmin = 158.805
+            xmax = 158.922
+            text = ""
+        intervals [169]
+            xmin = 158.922
+            xmax = 159.861
+            text = "ukukuhu"
+        intervals [170]
+            xmin = 159.861
+            xmax = 160.8
+            text = "olanakwe"
+        intervals [171]
+            xmin = 160.8
+            xmax = 161.739
+            text = "taʃi"
+        intervals [172]
+            xmin = 161.739
+            xmax = 161.856
+            text = ""
+        intervals [173]
+            xmin = 161.856
+            xmax = 162.299
+            text = "mpaki"
+        intervals [174]
+            xmin = 162.299
+            xmax = 162.743
+            text = "keta"
+        intervals [175]
+            xmin = 162.743
+            xmax = 162.81
+            text = ""
+        intervals [176]
+            xmin = 162.81
+            xmax = 163.193
+            text = "aː"
+        intervals [177]
+            xmin = 163.193
+            xmax = 163.576
+            text = "hama"
+        intervals [178]
+            xmin = 163.576
+            xmax = 163.959
+            text = "jamua"
+        intervals [179]
+            xmin = 163.959
+            xmax = 164.343
+            text = "cˀekeja"
+        intervals [180]
+            xmin = 164.343
+            xmax = 164.526
+            text = ""
+        intervals [181]
+            xmin = 164.526
+            xmax = 164.904
+            text = "abesa"
+        intervals [182]
+            xmin = 164.904
+            xmax = 165.283
+            text = "hani"
+        intervals [183]
+            xmin = 165.283
+            xmax = 165.661
+            text = "hama"
+        intervals [184]
+            xmin = 165.661
+            xmax = 166.04
+            text = "hetsˀa"
+        intervals [185]
+            xmin = 166.04
+            xmax = 166.418
+            text = "cˀekeja"
+        intervals [186]
+            xmin = 166.418
+            xmax = 166.797
+            text = "keta"
+        intervals [187]
+            xmin = 166.797
+            xmax = 167.176
+            text = "abesa"
+        intervals [188]
+            xmin = 167.176
+            xmax = 167.593
+            text = ""
+        intervals [189]
+            xmin = 167.593
+            xmax = 168.359
+            text = "haka"
+        intervals [190]
+            xmin = 168.359
+            xmax = 168.759
+            text = ""
+        intervals [191]
+            xmin = 168.759
+            xmax = 169.276
+            text = "sekemehamae"
+        intervals [192]
+            xmin = 169.276
+            xmax = 169.793
+            text = "a"
+        intervals [193]
+            xmin = 169.793
+            xmax = 170.31
+            text = "manako"
+        intervals [194]
+            xmin = 170.31
+            xmax = 170.828
+            text = "hetsˀana"
+        intervals [195]
+            xmin = 170.828
+            xmax = 170.894
+            text = ""
+        intervals [196]
+            xmin = 170.894
+            xmax = 171.419
+            text = "itʃinina"
+        intervals [197]
+            xmin = 171.419
+            xmax = 171.944
+            text = "hetsˀa"
+        intervals [198]
+            xmin = 171.944
+            xmax = 173.111
+            text = ""
+        intervals [199]
+            xmin = 173.111
+            xmax = 173.963
+            text = "bebeˀene"
+        intervals [200]
+            xmin = 173.963
+            xmax = 174.815
+            text = "atonena"
+        intervals [201]
+            xmin = 174.815
+            xmax = 174.865
+            text = ""
+        intervals [202]
+            xmin = 174.865
+            xmax = 175.356
+            text = "iʃoko"
+        intervals [203]
+            xmin = 175.356
+            xmax = 175.848
+            text = "kota"
+        intervals [204]
+            xmin = 175.848
+            xmax = 175.881
+            text = ""
+        intervals [205]
+            xmin = 175.881
+            xmax = 176.681
+            text = "dinkije"
+        intervals [206]
+            xmin = 176.681
+            xmax = 177.481
+            text = "ǁˀama"
+        intervals [207]
+            xmin = 177.481
+            xmax = 178.198
+            text = ""
+        intervals [208]
+            xmin = 178.198
+            xmax = 178.725
+            text = "kwamo"
+        intervals [209]
+            xmin = 178.725
+            xmax = 179.253
+            text = "ta"
+        intervals [210]
+            xmin = 179.253
+            xmax = 179.781
+            text = "titsˀia"
+        intervals [211]
+            xmin = 179.781
+            xmax = 179.914
+            text = ""
+        intervals [212]
+            xmin = 179.914
+            xmax = 180.701
+            text = "kota"
+        intervals [213]
+            xmin = 180.701
+            xmax = 181.489
+            text = "kukujuleta"
+        intervals [214]
+            xmin = 181.489
+            xmax = 182.277
+            text = "ǁˀama"
+        intervals [215]
+            xmin = 182.277
+            xmax = 183.065
+            text = "cˀuː"
+        intervals [216]
+            xmin = 183.065
+            xmax = 183.081
+            text = ""
+        intervals [217]
+            xmin = 183.081
+            xmax = 183.847
+            text = "ǁˀuu"
+        intervals [218]
+            xmin = 183.847
+            xmax = 184.613
+            text = "ǁˀuu"
+        intervals [219]
+            xmin = 184.613
+            xmax = 185.38
+            text = "sakamametama"
+        intervals [220]
+            xmin = 185.38
+            xmax = 187.532
+            text = ""
+        intervals [221]
+            xmin = 187.532
+            xmax = 188.143
+            text = "mpaka"
+        intervals [222]
+            xmin = 188.143
+            xmax = 188.754
+            text = "welapina"
+        intervals [223]
+            xmin = 188.754
+            xmax = 189.365
+            text = "kwamoʃae"
+        intervals [224]
+            xmin = 189.365
+            xmax = 189.649
+            text = ""
+        intervals [225]
+            xmin = 189.649
+            xmax = 189.99
+            text = "kwamo"
+        intervals [226]
+            xmin = 189.99
+            xmax = 190.331
+            text = "ta"
+        intervals [227]
+            xmin = 190.331
+            xmax = 190.672
+            text = "ʃae"
+        intervals [228]
+            xmin = 190.672
+            xmax = 191.013
+            text = "keta"
+        intervals [229]
+            xmin = 191.013
+            xmax = 191.355
+            text = "aa"
+        intervals [230]
+            xmin = 191.355
+            xmax = 191.371
+            text = ""
+        intervals [231]
+            xmin = 191.371
+            xmax = 192.06
+            text = "hamaihia"
+        intervals [232]
+            xmin = 192.06
+            xmax = 192.75
+            text = "bawa"
+        intervals [233]
+            xmin = 192.75
+            xmax = 193.44
+            text = "samonaja"
+        intervals [234]
+            xmin = 193.44
+            xmax = 193.624
+            text = ""
+        intervals [235]
+            xmin = 193.624
+            xmax = 194.235
+            text = "ikaːkwebe"
+        intervals [236]
+            xmin = 194.235
+            xmax = 194.847
+            text = "a"
+        intervals [237]
+            xmin = 194.847
+            xmax = 195.459
+            text = "ǃ'watije"
+        intervals [238]
+            xmin = 195.459
+            xmax = 195.542
+            text = ""
+        intervals [239]
+            xmin = 195.542
+            xmax = 196.417
+            text = "hama"
+        intervals [240]
+            xmin = 196.417
+            xmax = 197.292
+            text = "tʃokwahejoneja"
+        intervals [241]
+            xmin = 197.292
+            xmax = 197.442
+            text = ""
+        intervals [242]
+            xmin = 197.442
+            xmax = 197.825
+            text = "mpaka"
+        intervals [243]
+            xmin = 197.825
+            xmax = 198.208
+            text = "a"
+        intervals [244]
+            xmin = 198.208
+            xmax = 198.592
+            text = "hamaiʃo"
+        intervals [245]
+            xmin = 198.592
+            xmax = 201.775
+            text = ""
+        intervals [246]
+            xmin = 201.775
+            xmax = 202.816
+            text = "sasamonajako"
+        intervals [247]
+            xmin = 202.816
+            xmax = 203.858
+            text = "ǁˀuwiko"
+        intervals [248]
+            xmin = 203.858
+            xmax = 215.257
+            text = ""
+    item[7]:
+        class = "IntervalTier"
+        name = "Morpheme@GB"
+        xmin = 0.0
+        xmax = 215.257
+        intervals: size = 270
+        intervals [1]
+            xmin = 0.0
+            xmax = 49.783
+            text = ""
+        intervals [2]
+            xmin = 49.783
+            xmax = 50.26
+            text = "bahe"
+        intervals [3]
+            xmin = 50.26
+            xmax = 50.737
+            text = "-amo"
+        intervals [4]
+            xmin = 50.737
+            xmax = 51.691
+            text = "paˀnakwete"
+        intervals [5]
+            xmin = 51.691
+            xmax = 52.645
+            text = "itʃaːme"
+        intervals [6]
+            xmin = 52.645
+            xmax = 53.6
+            text = "jombaga"
+        intervals [7]
+            xmin = 53.6
+            xmax = 54.933
+            text = ""
+        intervals [8]
+            xmin = 54.933
+            xmax = 55.44
+            text = "hak"
+        intervals [9]
+            xmin = 55.44
+            xmax = 55.948
+            text = "-amo"
+        intervals [10]
+            xmin = 55.948
+            xmax = 56.964
+            text = "ǃˀadabitina"
+        intervals [11]
+            xmin = 56.964
+            xmax = 57.664
+            text = ""
+        intervals [12]
+            xmin = 57.664
+            xmax = 57.972
+            text = "h"
+        intervals [13]
+            xmin = 57.972
+            xmax = 58.281
+            text = "-amo"
+        intervals [14]
+            xmin = 58.281
+            xmax = 58.589
+            text = "cˀu"
+        intervals [15]
+            xmin = 58.589
+            xmax = 58.898
+            text = "-eta"
+        intervals [16]
+            xmin = 58.898
+            xmax = 59.631
+            text = ""
+        intervals [17]
+            xmin = 59.631
+            xmax = 60.303
+            text = "amo"
+        intervals [18]
+            xmin = 60.303
+            xmax = 60.975
+            text = "tetsˀe"
+        intervals [19]
+            xmin = 60.975
+            xmax = 61.647
+            text = "atonena"
+        intervals [20]
+            xmin = 61.647
+            xmax = 62.431
+            text = ""
+        intervals [21]
+            xmin = 62.431
+            xmax = 63.139
+            text = "amo"
+        intervals [22]
+            xmin = 63.139
+            xmax = 63.493
+            text = "ela"
+        intervals [23]
+            xmin = 63.493
+            xmax = 63.848
+            text = "-eta"
+        intervals [24]
+            xmin = 63.848
+            xmax = 64.064
+            text = ""
+        intervals [25]
+            xmin = 64.064
+            xmax = 64.914
+            text = "hakaŋ"
+        intervals [26]
+            xmin = 64.914
+            xmax = 65.597
+            text = ""
+        intervals [27]
+            xmin = 65.597
+            xmax = 67.097
+            text = "tʃaŋgadʒaˀitaʔa"
+        intervals [28]
+            xmin = 67.097
+            xmax = 68.397
+            text = ""
+        intervals [29]
+            xmin = 68.397
+            xmax = 69.697
+            text = "atumbate"
+        intervals [30]
+            xmin = 69.697
+            xmax = 70.63
+            text = ""
+        intervals [31]
+            xmin = 70.63
+            xmax = 71.58
+            text = "aka"
+        intervals [32]
+            xmin = 71.58
+            xmax = 72.531
+            text = "ǁˀetaǁˀanabema"
+        intervals [33]
+            xmin = 72.531
+            xmax = 75.421
+            text = ""
+        intervals [34]
+            xmin = 75.421
+            xmax = 76.054
+            text = "ǁˀaǃˀafena"
+        intervals [35]
+            xmin = 76.054
+            xmax = 76.687
+            text = "aka"
+        intervals [36]
+            xmin = 76.687
+            xmax = 77.321
+            text = "hucʰudzu"
+        intervals [37]
+            xmin = 77.321
+            xmax = 78.504
+            text = ""
+        intervals [38]
+            xmin = 78.504
+            xmax = 79.321
+            text = "hakatʃana"
+        intervals [39]
+            xmin = 79.321
+            xmax = 79.971
+            text = ""
+        intervals [40]
+            xmin = 79.971
+            xmax = 81.171
+            text = "ǃoboikaˀena"
+        intervals [41]
+            xmin = 81.171
+            xmax = 82.004
+            text = ""
+        intervals [42]
+            xmin = 82.004
+            xmax = 82.663
+            text = "gosaŋgana"
+        intervals [43]
+            xmin = 82.663
+            xmax = 83.322
+            text = "atonena"
+        intervals [44]
+            xmin = 83.322
+            xmax = 83.981
+            text = "cˀaha"
+        intervals [45]
+            xmin = 83.981
+            xmax = 84.64
+            text = "ǁˀaka"
+        intervals [46]
+            xmin = 84.64
+            xmax = 86.323
+            text = ""
+        intervals [47]
+            xmin = 86.323
+            xmax = 87.413
+            text = "ha"
+        intervals [48]
+            xmin = 87.413
+            xmax = 88.504
+            text = "amo"
+        intervals [49]
+            xmin = 88.504
+            xmax = 89.049
+            text = "gosaŋanakw"
+        intervals [50]
+            xmin = 89.049
+            xmax = 89.594
+            text = "-amo"
+        intervals [51]
+            xmin = 89.594
+            xmax = 90.685
+            text = "lucˀu"
+        intervals [52]
+            xmin = 90.685
+            xmax = 90.751
+            text = ""
+        intervals [53]
+            xmin = 90.751
+            xmax = 91.484
+            text = "tʃitaː"
+        intervals [54]
+            xmin = 91.484
+            xmax = 92.218
+            text = "manakoˀa"
+        intervals [55]
+            xmin = 92.218
+            xmax = 92.401
+            text = ""
+        intervals [56]
+            xmin = 92.401
+            xmax = 93.154
+            text = "ǁˀemaːnije"
+        intervals [57]
+            xmin = 93.154
+            xmax = 93.907
+            text = "tsˀao"
+        intervals [58]
+            xmin = 93.907
+            xmax = 93.973
+            text = ""
+        intervals [59]
+            xmin = 93.973
+            xmax = 94.558
+            text = "tetsˀe"
+        intervals [60]
+            xmin = 94.558
+            xmax = 95.143
+            text = "anije"
+        intervals [61]
+            xmin = 95.143
+            xmax = 95.729
+            text = "hetsˀana"
+        intervals [62]
+            xmin = 95.729
+            xmax = 95.829
+            text = ""
+        intervals [63]
+            xmin = 95.829
+            xmax = 96.406
+            text = "etedza"
+        intervals [64]
+            xmin = 96.406
+            xmax = 96.984
+            text = "ete"
+        intervals [65]
+            xmin = 96.984
+            xmax = 97.562
+            text = "ǁˀakaʃaː"
+        intervals [66]
+            xmin = 97.562
+            xmax = 98.262
+            text = ""
+        intervals [67]
+            xmin = 98.262
+            xmax = 99.586
+            text = "ecˀawika"
+        intervals [68]
+            xmin = 99.586
+            xmax = 99.943
+            text = ""
+        intervals [69]
+            xmin = 99.943
+            xmax = 100.536
+            text = "ˀubanama"
+        intervals [70]
+            xmin = 100.536
+            xmax = 101.13
+            text = "amo"
+        intervals [71]
+            xmin = 101.13
+            xmax = 101.724
+            text = "eˀawi"
+        intervals [72]
+            xmin = 101.724
+            xmax = 101.874
+            text = ""
+        intervals [73]
+            xmin = 101.874
+            xmax = 102.371
+            text = "pukufuwema"
+        intervals [74]
+            xmin = 102.371
+            xmax = 102.868
+            text = "akwabeː"
+        intervals [75]
+            xmin = 102.868
+            xmax = 103.365
+            text = "hiːjemeto"
+        intervals [76]
+            xmin = 103.365
+            xmax = 103.862
+            text = "ihia"
+        intervals [77]
+            xmin = 103.862
+            xmax = 104.359
+            text = "a"
+        intervals [78]
+            xmin = 104.359
+            xmax = 104.857
+            text = "hukwa"
+        intervals [79]
+            xmin = 104.857
+            xmax = 104.974
+            text = ""
+        intervals [80]
+            xmin = 104.974
+            xmax = 105.934
+            text = "pukufuwema"
+        intervals [81]
+            xmin = 105.934
+            xmax = 106.414
+            text = "pukufuem"
+        intervals [82]
+            xmin = 106.414
+            xmax = 106.895
+            text = "-amo"
+        intervals [83]
+            xmin = 106.895
+            xmax = 107.012
+            text = ""
+        intervals [84]
+            xmin = 107.012
+            xmax = 107.678
+            text = "hucˀu"
+        intervals [85]
+            xmin = 107.678
+            xmax = 108.078
+            text = ""
+        intervals [86]
+            xmin = 108.078
+            xmax = 108.307
+            text = "kw"
+        intervals [87]
+            xmin = 108.307
+            xmax = 108.536
+            text = "-amo"
+        intervals [88]
+            xmin = 108.536
+            xmax = 108.995
+            text = "haka"
+        intervals [89]
+            xmin = 108.995
+            xmax = 109.454
+            text = "hetsana"
+        intervals [90]
+            xmin = 109.454
+            xmax = 109.504
+            text = ""
+        intervals [91]
+            xmin = 109.504
+            xmax = 110.137
+            text = "oː"
+        intervals [92]
+            xmin = 110.137
+            xmax = 110.771
+            text = "hatʃasi"
+        intervals [93]
+            xmin = 110.771
+            xmax = 111.588
+            text = ""
+        intervals [94]
+            xmin = 111.588
+            xmax = 112.121
+            text = "maiˀanite"
+        intervals [95]
+            xmin = 112.121
+            xmax = 112.654
+            text = "ba"
+        intervals [96]
+            xmin = 112.654
+            xmax = 113.187
+            text = "haǁˀa"
+        intervals [97]
+            xmin = 113.187
+            xmax = 113.687
+            text = ""
+        intervals [98]
+            xmin = 113.687
+            xmax = 113.896
+            text = "kw"
+        intervals [99]
+            xmin = 113.896
+            xmax = 114.105
+            text = "-amo"
+        intervals [100]
+            xmin = 114.105
+            xmax = 114.524
+            text = "ta"
+        intervals [101]
+            xmin = 114.524
+            xmax = 114.733
+            text = "hak"
+        intervals [102]
+            xmin = 114.733
+            xmax = 114.943
+            text = "-amo"
+        intervals [103]
+            xmin = 114.943
+            xmax = 115.059
+            text = ""
+        intervals [104]
+            xmin = 115.059
+            xmax = 116.093
+            text = "tetsˀehe"
+        intervals [105]
+            xmin = 116.093
+            xmax = 116.943
+            text = ""
+        intervals [106]
+            xmin = 116.943
+            xmax = 117.601
+            text = "gosaŋgana"
+        intervals [107]
+            xmin = 117.601
+            xmax = 118.259
+            text = "hukwa"
+        intervals [108]
+            xmin = 118.259
+            xmax = 119.609
+            text = ""
+        intervals [109]
+            xmin = 119.609
+            xmax = 120.459
+            text = "hani"
+        intervals [110]
+            xmin = 120.459
+            xmax = 121.076
+            text = ""
+        intervals [111]
+            xmin = 121.076
+            xmax = 122.293
+            text = "akwabema"
+        intervals [112]
+            xmin = 122.293
+            xmax = 122.643
+            text = ""
+        intervals [113]
+            xmin = 122.643
+            xmax = 123.252
+            text = "pukufuwepe"
+        intervals [114]
+            xmin = 123.252
+            xmax = 123.557
+            text = "akw"
+        intervals [115]
+            xmin = 123.557
+            xmax = 123.862
+            text = "-amo"
+        intervals [116]
+            xmin = 123.862
+            xmax = 124.472
+            text = "ǃˀwati"
+        intervals [117]
+            xmin = 124.472
+            xmax = 124.572
+            text = ""
+        intervals [118]
+            xmin = 124.572
+            xmax = 125.189
+            text = "taː"
+        intervals [119]
+            xmin = 125.189
+            xmax = 125.522
+            text = ""
+        intervals [120]
+            xmin = 125.522
+            xmax = 126.289
+            text = "tsˀititina"
+        intervals [121]
+            xmin = 126.289
+            xmax = 127.056
+            text = ""
+        intervals [122]
+            xmin = 127.056
+            xmax = 127.303
+            text = "kw"
+        intervals [123]
+            xmin = 127.303
+            xmax = 127.551
+            text = "-amo"
+        intervals [124]
+            xmin = 127.551
+            xmax = 128.047
+            text = "ta"
+        intervals [125]
+            xmin = 128.047
+            xmax = 128.543
+            text = "taː"
+        intervals [126]
+            xmin = 128.543
+            xmax = 129.039
+            text = "atonena"
+        intervals [127]
+            xmin = 129.039
+            xmax = 129.189
+            text = ""
+        intervals [128]
+            xmin = 129.189
+            xmax = 129.983
+            text = "gosaŋganakitʃa"
+        intervals [129]
+            xmin = 129.983
+            xmax = 130.777
+            text = "tʃokwaemakitʃa"
+        intervals [130]
+            xmin = 130.777
+            xmax = 131.572
+            text = "kitʃa"
+        intervals [131]
+            xmin = 131.572
+            xmax = 131.706
+            text = ""
+        intervals [132]
+            xmin = 131.706
+            xmax = 132.456
+            text = "haǁaka"
+        intervals [133]
+            xmin = 132.456
+            xmax = 133.206
+            text = "ǁeteja"
+        intervals [134]
+            xmin = 133.206
+            xmax = 133.956
+            text = "dzua"
+        intervals [135]
+            xmin = 133.956
+            xmax = 134.466
+            text = ""
+        intervals [136]
+            xmin = 134.466
+            xmax = 134.847
+            text = "kwami"
+        intervals [137]
+            xmin = 134.847
+            xmax = 135.228
+            text = "ta"
+        intervals [138]
+            xmin = 135.228
+            xmax = 135.609
+            text = "ǁeteja"
+        intervals [139]
+            xmin = 135.609
+            xmax = 135.991
+            text = "kami"
+        intervals [140]
+            xmin = 135.991
+            xmax = 136.857
+            text = ""
+        intervals [141]
+            xmin = 136.857
+            xmax = 138.09
+            text = "ǁˀekeǁˀeˀana"
+        intervals [142]
+            xmin = 138.09
+            xmax = 138.657
+            text = ""
+        intervals [143]
+            xmin = 138.657
+            xmax = 139.624
+            text = "tʃakate"
+        intervals [144]
+            xmin = 139.624
+            xmax = 139.874
+            text = ""
+        intervals [145]
+            xmin = 139.874
+            xmax = 140.382
+            text = "hakana"
+        intervals [146]
+            xmin = 140.382
+            xmax = 140.89
+            text = "hetsˀana"
+        intervals [147]
+            xmin = 140.89
+            xmax = 141.341
+            text = ""
+        intervals [148]
+            xmin = 141.341
+            xmax = 142.416
+            text = "mamako"
+        intervals [149]
+            xmin = 142.416
+            xmax = 142.691
+            text = ""
+        intervals [150]
+            xmin = 142.691
+            xmax = 143.065
+            text = "kwam"
+        intervals [151]
+            xmin = 143.065
+            xmax = 143.439
+            text = "-eta"
+        intervals [152]
+            xmin = 143.439
+            xmax = 144.187
+            text = "mamako"
+        intervals [153]
+            xmin = 144.187
+            xmax = 144.936
+            text = "atonena"
+        intervals [154]
+            xmin = 144.936
+            xmax = 145.052
+            text = ""
+        intervals [155]
+            xmin = 145.052
+            xmax = 145.519
+            text = "tsˀifi"
+        intervals [156]
+            xmin = 145.519
+            xmax = 145.987
+            text = "a"
+        intervals [157]
+            xmin = 145.987
+            xmax = 146.455
+            text = "iʃoko"
+        intervals [158]
+            xmin = 146.455
+            xmax = 146.923
+            text = "atonena"
+        intervals [159]
+            xmin = 146.923
+            xmax = 147.391
+            text = "sekeme"
+        intervals [160]
+            xmin = 147.391
+            xmax = 147.859
+            text = "a"
+        intervals [161]
+            xmin = 147.859
+            xmax = 148.327
+            text = "unu"
+        intervals [162]
+            xmin = 148.327
+            xmax = 148.561
+            text = ""
+        intervals [163]
+            xmin = 148.561
+            xmax = 149.173
+            text = "aho"
+        intervals [164]
+            xmin = 149.173
+            xmax = 149.786
+            text = "atonena"
+        intervals [165]
+            xmin = 149.786
+            xmax = 150.398
+            text = "hamaihia"
+        intervals [166]
+            xmin = 150.398
+            xmax = 150.704
+            text = "kw"
+        intervals [167]
+            xmin = 150.704
+            xmax = 151.011
+            text = "-amo"
+        intervals [168]
+            xmin = 151.011
+            xmax = 151.26
+            text = ""
+        intervals [169]
+            xmin = 151.26
+            xmax = 151.968
+            text = "!uˀu"
+        intervals [170]
+            xmin = 151.968
+            xmax = 152.677
+            text = "itʃe"
+        intervals [171]
+            xmin = 152.677
+            xmax = 152.777
+            text = ""
+        intervals [172]
+            xmin = 152.777
+            xmax = 153.61
+            text = "gaʃeŋga"
+        intervals [173]
+            xmin = 153.61
+            xmax = 154.077
+            text = ""
+        intervals [174]
+            xmin = 154.077
+            xmax = 155.003
+            text = "ǁˀuwiko"
+        intervals [175]
+            xmin = 155.003
+            xmax = 155.922
+            text = ""
+        intervals [176]
+            xmin = 155.922
+            xmax = 156.162
+            text = "sam"
+        intervals [177]
+            xmin = 156.162
+            xmax = 156.402
+            text = "-eta"
+        intervals [178]
+            xmin = 156.402
+            xmax = 156.883
+            text = "tsˀifi"
+        intervals [179]
+            xmin = 156.883
+            xmax = 157.363
+            text = "wainama"
+        intervals [180]
+            xmin = 157.363
+            xmax = 157.844
+            text = "mpaka"
+        intervals [181]
+            xmin = 157.844
+            xmax = 158.084
+            text = "k"
+        intervals [182]
+            xmin = 158.084
+            xmax = 158.324
+            text = "-amo"
+        intervals [183]
+            xmin = 158.324
+            xmax = 158.805
+            text = "ʃaje"
+        intervals [184]
+            xmin = 158.805
+            xmax = 158.922
+            text = ""
+        intervals [185]
+            xmin = 158.922
+            xmax = 159.861
+            text = "ukukuhu"
+        intervals [186]
+            xmin = 159.861
+            xmax = 160.8
+            text = "olanakwe"
+        intervals [187]
+            xmin = 160.8
+            xmax = 161.739
+            text = "taʃi"
+        intervals [188]
+            xmin = 161.739
+            xmax = 161.856
+            text = ""
+        intervals [189]
+            xmin = 161.856
+            xmax = 162.299
+            text = "mpaki"
+        intervals [190]
+            xmin = 162.299
+            xmax = 162.521
+            text = "k"
+        intervals [191]
+            xmin = 162.521
+            xmax = 162.743
+            text = "-eta"
+        intervals [192]
+            xmin = 162.743
+            xmax = 162.81
+            text = ""
+        intervals [193]
+            xmin = 162.81
+            xmax = 163.193
+            text = "aː"
+        intervals [194]
+            xmin = 163.193
+            xmax = 163.576
+            text = "hama"
+        intervals [195]
+            xmin = 163.576
+            xmax = 163.959
+            text = "jamua"
+        intervals [196]
+            xmin = 163.959
+            xmax = 164.343
+            text = "cˀekeja"
+        intervals [197]
+            xmin = 164.343
+            xmax = 164.526
+            text = ""
+        intervals [198]
+            xmin = 164.526
+            xmax = 164.904
+            text = "abesa"
+        intervals [199]
+            xmin = 164.904
+            xmax = 165.283
+            text = "hani"
+        intervals [200]
+            xmin = 165.283
+            xmax = 165.661
+            text = "hama"
+        intervals [201]
+            xmin = 165.661
+            xmax = 166.04
+            text = "hetsˀa"
+        intervals [202]
+            xmin = 166.04
+            xmax = 166.418
+            text = "cˀekeja"
+        intervals [203]
+            xmin = 166.418
+            xmax = 166.607
+            text = "k"
+        intervals [204]
+            xmin = 166.607
+            xmax = 166.797
+            text = "-eta"
+        intervals [205]
+            xmin = 166.797
+            xmax = 167.176
+            text = "abesa"
+        intervals [206]
+            xmin = 167.176
+            xmax = 167.593
+            text = ""
+        intervals [207]
+            xmin = 167.593
+            xmax = 168.359
+            text = "haka"
+        intervals [208]
+            xmin = 168.359
+            xmax = 168.759
+            text = ""
+        intervals [209]
+            xmin = 168.759
+            xmax = 169.276
+            text = "sekemehamae"
+        intervals [210]
+            xmin = 169.276
+            xmax = 169.793
+            text = "a"
+        intervals [211]
+            xmin = 169.793
+            xmax = 170.31
+            text = "manako"
+        intervals [212]
+            xmin = 170.31
+            xmax = 170.828
+            text = "hetsˀana"
+        intervals [213]
+            xmin = 170.828
+            xmax = 170.894
+            text = ""
+        intervals [214]
+            xmin = 170.894
+            xmax = 171.419
+            text = "itʃinina"
+        intervals [215]
+            xmin = 171.419
+            xmax = 171.944
+            text = "hetsˀa"
+        intervals [216]
+            xmin = 171.944
+            xmax = 173.111
+            text = ""
+        intervals [217]
+            xmin = 173.111
+            xmax = 173.963
+            text = "bebeˀene"
+        intervals [218]
+            xmin = 173.963
+            xmax = 174.815
+            text = "atonena"
+        intervals [219]
+            xmin = 174.815
+            xmax = 174.865
+            text = ""
+        intervals [220]
+            xmin = 174.865
+            xmax = 175.356
+            text = "iʃoko"
+        intervals [221]
+            xmin = 175.356
+            xmax = 175.848
+            text = "kota"
+        intervals [222]
+            xmin = 175.848
+            xmax = 175.881
+            text = ""
+        intervals [223]
+            xmin = 175.881
+            xmax = 176.681
+            text = "dinkije"
+        intervals [224]
+            xmin = 176.681
+            xmax = 177.481
+            text = "ǁˀama"
+        intervals [225]
+            xmin = 177.481
+            xmax = 178.198
+            text = ""
+        intervals [226]
+            xmin = 178.198
+            xmax = 178.461
+            text = "kw"
+        intervals [227]
+            xmin = 178.461
+            xmax = 178.725
+            text = "-amo"
+        intervals [228]
+            xmin = 178.725
+            xmax = 179.253
+            text = "ta"
+        intervals [229]
+            xmin = 179.253
+            xmax = 179.781
+            text = "titsˀia"
+        intervals [230]
+            xmin = 179.781
+            xmax = 179.914
+            text = ""
+        intervals [231]
+            xmin = 179.914
+            xmax = 180.701
+            text = "kota"
+        intervals [232]
+            xmin = 180.701
+            xmax = 181.095
+            text = "kukujul"
+        intervals [233]
+            xmin = 181.095
+            xmax = 181.489
+            text = "-eta"
+        intervals [234]
+            xmin = 181.489
+            xmax = 182.277
+            text = "ǁˀama"
+        intervals [235]
+            xmin = 182.277
+            xmax = 183.065
+            text = "cˀuː"
+        intervals [236]
+            xmin = 183.065
+            xmax = 183.081
+            text = ""
+        intervals [237]
+            xmin = 183.081
+            xmax = 183.847
+            text = "ǁˀuu"
+        intervals [238]
+            xmin = 183.847
+            xmax = 184.613
+            text = "ǁˀuu"
+        intervals [239]
+            xmin = 184.613
+            xmax = 185.38
+            text = "sakamametama"
+        intervals [240]
+            xmin = 185.38
+            xmax = 187.532
+            text = ""
+        intervals [241]
+            xmin = 187.532
+            xmax = 188.143
+            text = "mpaka"
+        intervals [242]
+            xmin = 188.143
+            xmax = 188.754
+            text = "welapina"
+        intervals [243]
+            xmin = 188.754
+            xmax = 189.365
+            text = "kwamoʃae"
+        intervals [244]
+            xmin = 189.365
+            xmax = 189.649
+            text = ""
+        intervals [245]
+            xmin = 189.649
+            xmax = 189.819
+            text = "kw"
+        intervals [246]
+            xmin = 189.819
+            xmax = 189.99
+            text = "-amo"
+        intervals [247]
+            xmin = 189.99
+            xmax = 190.331
+            text = "ta"
+        intervals [248]
+            xmin = 190.331
+            xmax = 190.672
+            text = "ʃae"
+        intervals [249]
+            xmin = 190.672
+            xmax = 190.842
+            text = "k"
+        intervals [250]
+            xmin = 190.842
+            xmax = 191.013
+            text = "-eta"
+        intervals [251]
+            xmin = 191.013
+            xmax = 191.355
+            text = "aa"
+        intervals [252]
+            xmin = 191.355
+            xmax = 191.371
+            text = ""
+        intervals [253]
+            xmin = 191.371
+            xmax = 192.06
+            text = "hamaihia"
+        intervals [254]
+            xmin = 192.06
+            xmax = 192.75
+            text = "bawa"
+        intervals [255]
+            xmin = 192.75
+            xmax = 193.44
+            text = "samonaja"
+        intervals [256]
+            xmin = 193.44
+            xmax = 193.624
+            text = ""
+        intervals [257]
+            xmin = 193.624
+            xmax = 194.235
+            text = "ikaːkwebe"
+        intervals [258]
+            xmin = 194.235
+            xmax = 194.847
+            text = "a"
+        intervals [259]
+            xmin = 194.847
+            xmax = 195.459
+            text = "ǃ'watije"
+        intervals [260]
+            xmin = 195.459
+            xmax = 195.542
+            text = ""
+        intervals [261]
+            xmin = 195.542
+            xmax = 196.417
+            text = "hama"
+        intervals [262]
+            xmin = 196.417
+            xmax = 197.292
+            text = "tʃokwahejoneja"
+        intervals [263]
+            xmin = 197.292
+            xmax = 197.442
+            text = ""
+        intervals [264]
+            xmin = 197.442
+            xmax = 197.825
+            text = "mpaka"
+        intervals [265]
+            xmin = 197.825
+            xmax = 198.208
+            text = "a"
+        intervals [266]
+            xmin = 198.208
+            xmax = 198.592
+            text = "hamaiʃo"
+        intervals [267]
+            xmin = 198.592
+            xmax = 201.775
+            text = ""
+        intervals [268]
+            xmin = 201.775
+            xmax = 202.816
+            text = "sasamonajako"
+        intervals [269]
+            xmin = 202.816
+            xmax = 203.858
+            text = "ǁˀuwiko"
+        intervals [270]
+            xmin = 203.858
+            xmax = 215.257
+            text = ""
+    item[8]:
+        class = "IntervalTier"
+        name = "Gloss@GB"
+        xmin = 0.0
+        xmax = 215.257
+        intervals: size = 270
+        intervals [1]
+            xmin = 0.0
+            xmax = 49.783
+            text = ""
+        intervals [2]
+            xmin = 49.783
+            xmax = 50.26
+            text = "EXIST.COP"
+        intervals [3]
+            xmin = 50.26
+            xmax = 50.737
+            text = "3.PST"
+        intervals [4]
+            xmin = 50.737
+            xmax = 51.691
+            text = "old.man"
+        intervals [5]
+            xmin = 51.691
+            xmax = 52.645
+            text = "DEM.SG"
+        intervals [6]
+            xmin = 52.645
+            xmax = 53.6
+            text = "Yombaga"
+        intervals [7]
+            xmin = 53.6
+            xmax = 54.933
+            text = ""
+        intervals [8]
+            xmin = 54.933
+            xmax = 55.44
+            text = "*"
+        intervals [9]
+            xmin = 55.44
+            xmax = 55.948
+            text = "3.PST"
+        intervals [10]
+            xmin = 55.948
+            xmax = 56.964
+            text = "*"
+        intervals [11]
+            xmin = 56.964
+            xmax = 57.664
+            text = ""
+        intervals [12]
+            xmin = 57.664
+            xmax = 57.972
+            text = "*"
+        intervals [13]
+            xmin = 57.972
+            xmax = 58.281
+            text = "3.PST"
+        intervals [14]
+            xmin = 58.281
+            xmax = 58.589
+            text = "*"
+        intervals [15]
+            xmin = 58.589
+            xmax = 58.898
+            text = "3.PL.F.OBJ"
+        intervals [16]
+            xmin = 58.898
+            xmax = 59.631
+            text = ""
+        intervals [17]
+            xmin = 59.631
+            xmax = 60.303
+            text = "3.PST"
+        intervals [18]
+            xmin = 60.303
+            xmax = 60.975
+            text = "*"
+        intervals [19]
+            xmin = 60.975
+            xmax = 61.647
+            text = "*"
+        intervals [20]
+            xmin = 61.647
+            xmax = 62.431
+            text = ""
+        intervals [21]
+            xmin = 62.431
+            xmax = 63.139
+            text = "3.PST"
+        intervals [22]
+            xmin = 63.139
+            xmax = 63.493
+            text = "do"
+        intervals [23]
+            xmin = 63.493
+            xmax = 63.848
+            text = "3.PL.F.OBJ"
+        intervals [24]
+            xmin = 63.848
+            xmax = 64.064
+            text = ""
+        intervals [25]
+            xmin = 64.064
+            xmax = 64.914
+            text = "*"
+        intervals [26]
+            xmin = 64.914
+            xmax = 65.597
+            text = ""
+        intervals [27]
+            xmin = 65.597
+            xmax = 67.097
+            text = "*"
+        intervals [28]
+            xmin = 67.097
+            xmax = 68.397
+            text = ""
+        intervals [29]
+            xmin = 68.397
+            xmax = 69.697
+            text = "*"
+        intervals [30]
+            xmin = 69.697
+            xmax = 70.63
+            text = ""
+        intervals [31]
+            xmin = 70.63
+            xmax = 71.58
+            text = "*"
+        intervals [32]
+            xmin = 71.58
+            xmax = 72.531
+            text = "*"
+        intervals [33]
+            xmin = 72.531
+            xmax = 75.421
+            text = ""
+        intervals [34]
+            xmin = 75.421
+            xmax = 76.054
+            text = "*"
+        intervals [35]
+            xmin = 76.054
+            xmax = 76.687
+            text = "*"
+        intervals [36]
+            xmin = 76.687
+            xmax = 77.321
+            text = "*"
+        intervals [37]
+            xmin = 77.321
+            xmax = 78.504
+            text = ""
+        intervals [38]
+            xmin = 78.504
+            xmax = 79.321
+            text = "*"
+        intervals [39]
+            xmin = 79.321
+            xmax = 79.971
+            text = ""
+        intervals [40]
+            xmin = 79.971
+            xmax = 81.171
+            text = "*"
+        intervals [41]
+            xmin = 81.171
+            xmax = 82.004
+            text = ""
+        intervals [42]
+            xmin = 82.004
+            xmax = 82.663
+            text = "*"
+        intervals [43]
+            xmin = 82.663
+            xmax = 83.322
+            text = "*"
+        intervals [44]
+            xmin = 83.322
+            xmax = 83.981
+            text = "*"
+        intervals [45]
+            xmin = 83.981
+            xmax = 84.64
+            text = "*"
+        intervals [46]
+            xmin = 84.64
+            xmax = 86.323
+            text = ""
+        intervals [47]
+            xmin = 86.323
+            xmax = 87.413
+            text = "*"
+        intervals [48]
+            xmin = 87.413
+            xmax = 88.504
+            text = "3.PST"
+        intervals [49]
+            xmin = 88.504
+            xmax = 89.049
+            text = "*"
+        intervals [50]
+            xmin = 89.049
+            xmax = 89.594
+            text = "3.PST"
+        intervals [51]
+            xmin = 89.594
+            xmax = 90.685
+            text = "*"
+        intervals [52]
+            xmin = 90.685
+            xmax = 90.751
+            text = ""
+        intervals [53]
+            xmin = 90.751
+            xmax = 91.484
+            text = "*"
+        intervals [54]
+            xmin = 91.484
+            xmax = 92.218
+            text = "*"
+        intervals [55]
+            xmin = 92.218
+            xmax = 92.401
+            text = ""
+        intervals [56]
+            xmin = 92.401
+            xmax = 93.154
+            text = "*"
+        intervals [57]
+            xmin = 93.154
+            xmax = 93.907
+            text = "*"
+        intervals [58]
+            xmin = 93.907
+            xmax = 93.973
+            text = ""
+        intervals [59]
+            xmin = 93.973
+            xmax = 94.558
+            text = "*"
+        intervals [60]
+            xmin = 94.558
+            xmax = 95.143
+            text = "*"
+        intervals [61]
+            xmin = 95.143
+            xmax = 95.729
+            text = "*"
+        intervals [62]
+            xmin = 95.729
+            xmax = 95.829
+            text = ""
+        intervals [63]
+            xmin = 95.829
+            xmax = 96.406
+            text = "*"
+        intervals [64]
+            xmin = 96.406
+            xmax = 96.984
+            text = "*"
+        intervals [65]
+            xmin = 96.984
+            xmax = 97.562
+            text = "*"
+        intervals [66]
+            xmin = 97.562
+            xmax = 98.262
+            text = ""
+        intervals [67]
+            xmin = 98.262
+            xmax = 99.586
+            text = "*"
+        intervals [68]
+            xmin = 99.586
+            xmax = 99.943
+            text = ""
+        intervals [69]
+            xmin = 99.943
+            xmax = 100.536
+            text = "*"
+        intervals [70]
+            xmin = 100.536
+            xmax = 101.13
+            text = "3.PST"
+        intervals [71]
+            xmin = 101.13
+            xmax = 101.724
+            text = "*"
+        intervals [72]
+            xmin = 101.724
+            xmax = 101.874
+            text = ""
+        intervals [73]
+            xmin = 101.874
+            xmax = 102.371
+            text = "*"
+        intervals [74]
+            xmin = 102.371
+            xmax = 102.868
+            text = "*"
+        intervals [75]
+            xmin = 102.868
+            xmax = 103.365
+            text = "*"
+        intervals [76]
+            xmin = 103.365
+            xmax = 103.862
+            text = "*"
+        intervals [77]
+            xmin = 103.862
+            xmax = 104.359
+            text = "*"
+        intervals [78]
+            xmin = 104.359
+            xmax = 104.857
+            text = "*"
+        intervals [79]
+            xmin = 104.857
+            xmax = 104.974
+            text = ""
+        intervals [80]
+            xmin = 104.974
+            xmax = 105.934
+            text = "*"
+        intervals [81]
+            xmin = 105.934
+            xmax = 106.414
+            text = "*"
+        intervals [82]
+            xmin = 106.414
+            xmax = 106.895
+            text = "3.PST"
+        intervals [83]
+            xmin = 106.895
+            xmax = 107.012
+            text = ""
+        intervals [84]
+            xmin = 107.012
+            xmax = 107.678
+            text = "*"
+        intervals [85]
+            xmin = 107.678
+            xmax = 108.078
+            text = ""
+        intervals [86]
+            xmin = 108.078
+            xmax = 108.307
+            text = "*"
+        intervals [87]
+            xmin = 108.307
+            xmax = 108.536
+            text = "3.PST"
+        intervals [88]
+            xmin = 108.536
+            xmax = 108.995
+            text = "*"
+        intervals [89]
+            xmin = 108.995
+            xmax = 109.454
+            text = "*"
+        intervals [90]
+            xmin = 109.454
+            xmax = 109.504
+            text = ""
+        intervals [91]
+            xmin = 109.504
+            xmax = 110.137
+            text = "*"
+        intervals [92]
+            xmin = 110.137
+            xmax = 110.771
+            text = "*"
+        intervals [93]
+            xmin = 110.771
+            xmax = 111.588
+            text = ""
+        intervals [94]
+            xmin = 111.588
+            xmax = 112.121
+            text = "*"
+        intervals [95]
+            xmin = 112.121
+            xmax = 112.654
+            text = "*"
+        intervals [96]
+            xmin = 112.654
+            xmax = 113.187
+            text = "*"
+        intervals [97]
+            xmin = 113.187
+            xmax = 113.687
+            text = ""
+        intervals [98]
+            xmin = 113.687
+            xmax = 113.896
+            text = "*"
+        intervals [99]
+            xmin = 113.896
+            xmax = 114.105
+            text = "3.PST"
+        intervals [100]
+            xmin = 114.105
+            xmax = 114.524
+            text = "*"
+        intervals [101]
+            xmin = 114.524
+            xmax = 114.733
+            text = "*"
+        intervals [102]
+            xmin = 114.733
+            xmax = 114.943
+            text = "3.PST"
+        intervals [103]
+            xmin = 114.943
+            xmax = 115.059
+            text = ""
+        intervals [104]
+            xmin = 115.059
+            xmax = 116.093
+            text = "*"
+        intervals [105]
+            xmin = 116.093
+            xmax = 116.943
+            text = ""
+        intervals [106]
+            xmin = 116.943
+            xmax = 117.601
+            text = "*"
+        intervals [107]
+            xmin = 117.601
+            xmax = 118.259
+            text = "*"
+        intervals [108]
+            xmin = 118.259
+            xmax = 119.609
+            text = ""
+        intervals [109]
+            xmin = 119.609
+            xmax = 120.459
+            text = "*"
+        intervals [110]
+            xmin = 120.459
+            xmax = 121.076
+            text = ""
+        intervals [111]
+            xmin = 121.076
+            xmax = 122.293
+            text = "*"
+        intervals [112]
+            xmin = 122.293
+            xmax = 122.643
+            text = ""
+        intervals [113]
+            xmin = 122.643
+            xmax = 123.252
+            text = "*"
+        intervals [114]
+            xmin = 123.252
+            xmax = 123.557
+            text = "*"
+        intervals [115]
+            xmin = 123.557
+            xmax = 123.862
+            text = "3.PST"
+        intervals [116]
+            xmin = 123.862
+            xmax = 124.472
+            text = "*"
+        intervals [117]
+            xmin = 124.472
+            xmax = 124.572
+            text = ""
+        intervals [118]
+            xmin = 124.572
+            xmax = 125.189
+            text = "*"
+        intervals [119]
+            xmin = 125.189
+            xmax = 125.522
+            text = ""
+        intervals [120]
+            xmin = 125.522
+            xmax = 126.289
+            text = "*"
+        intervals [121]
+            xmin = 126.289
+            xmax = 127.056
+            text = ""
+        intervals [122]
+            xmin = 127.056
+            xmax = 127.303
+            text = "*"
+        intervals [123]
+            xmin = 127.303
+            xmax = 127.551
+            text = "3.PST"
+        intervals [124]
+            xmin = 127.551
+            xmax = 128.047
+            text = "*"
+        intervals [125]
+            xmin = 128.047
+            xmax = 128.543
+            text = "*"
+        intervals [126]
+            xmin = 128.543
+            xmax = 129.039
+            text = "*"
+        intervals [127]
+            xmin = 129.039
+            xmax = 129.189
+            text = ""
+        intervals [128]
+            xmin = 129.189
+            xmax = 129.983
+            text = "*"
+        intervals [129]
+            xmin = 129.983
+            xmax = 130.777
+            text = "*"
+        intervals [130]
+            xmin = 130.777
+            xmax = 131.572
+            text = "*"
+        intervals [131]
+            xmin = 131.572
+            xmax = 131.706
+            text = ""
+        intervals [132]
+            xmin = 131.706
+            xmax = 132.456
+            text = "*"
+        intervals [133]
+            xmin = 132.456
+            xmax = 133.206
+            text = "*"
+        intervals [134]
+            xmin = 133.206
+            xmax = 133.956
+            text = "*"
+        intervals [135]
+            xmin = 133.956
+            xmax = 134.466
+            text = ""
+        intervals [136]
+            xmin = 134.466
+            xmax = 134.847
+            text = "*"
+        intervals [137]
+            xmin = 134.847
+            xmax = 135.228
+            text = "*"
+        intervals [138]
+            xmin = 135.228
+            xmax = 135.609
+            text = "*"
+        intervals [139]
+            xmin = 135.609
+            xmax = 135.991
+            text = "*"
+        intervals [140]
+            xmin = 135.991
+            xmax = 136.857
+            text = ""
+        intervals [141]
+            xmin = 136.857
+            xmax = 138.09
+            text = "*"
+        intervals [142]
+            xmin = 138.09
+            xmax = 138.657
+            text = ""
+        intervals [143]
+            xmin = 138.657
+            xmax = 139.624
+            text = "*"
+        intervals [144]
+            xmin = 139.624
+            xmax = 139.874
+            text = ""
+        intervals [145]
+            xmin = 139.874
+            xmax = 140.382
+            text = "*"
+        intervals [146]
+            xmin = 140.382
+            xmax = 140.89
+            text = "*"
+        intervals [147]
+            xmin = 140.89
+            xmax = 141.341
+            text = ""
+        intervals [148]
+            xmin = 141.341
+            xmax = 142.416
+            text = "*"
+        intervals [149]
+            xmin = 142.416
+            xmax = 142.691
+            text = ""
+        intervals [150]
+            xmin = 142.691
+            xmax = 143.065
+            text = "*"
+        intervals [151]
+            xmin = 143.065
+            xmax = 143.439
+            text = "3.PL.F.OBJ"
+        intervals [152]
+            xmin = 143.439
+            xmax = 144.187
+            text = "*"
+        intervals [153]
+            xmin = 144.187
+            xmax = 144.936
+            text = "*"
+        intervals [154]
+            xmin = 144.936
+            xmax = 145.052
+            text = ""
+        intervals [155]
+            xmin = 145.052
+            xmax = 145.519
+            text = "*"
+        intervals [156]
+            xmin = 145.519
+            xmax = 145.987
+            text = "*"
+        intervals [157]
+            xmin = 145.987
+            xmax = 146.455
+            text = "*"
+        intervals [158]
+            xmin = 146.455
+            xmax = 146.923
+            text = "*"
+        intervals [159]
+            xmin = 146.923
+            xmax = 147.391
+            text = "*"
+        intervals [160]
+            xmin = 147.391
+            xmax = 147.859
+            text = "*"
+        intervals [161]
+            xmin = 147.859
+            xmax = 148.327
+            text = "*"
+        intervals [162]
+            xmin = 148.327
+            xmax = 148.561
+            text = ""
+        intervals [163]
+            xmin = 148.561
+            xmax = 149.173
+            text = "*"
+        intervals [164]
+            xmin = 149.173
+            xmax = 149.786
+            text = "*"
+        intervals [165]
+            xmin = 149.786
+            xmax = 150.398
+            text = "*"
+        intervals [166]
+            xmin = 150.398
+            xmax = 150.704
+            text = "*"
+        intervals [167]
+            xmin = 150.704
+            xmax = 151.011
+            text = "3.PST"
+        intervals [168]
+            xmin = 151.011
+            xmax = 151.26
+            text = ""
+        intervals [169]
+            xmin = 151.26
+            xmax = 151.968
+            text = "*"
+        intervals [170]
+            xmin = 151.968
+            xmax = 152.677
+            text = "*"
+        intervals [171]
+            xmin = 152.677
+            xmax = 152.777
+            text = ""
+        intervals [172]
+            xmin = 152.777
+            xmax = 153.61
+            text = "*"
+        intervals [173]
+            xmin = 153.61
+            xmax = 154.077
+            text = ""
+        intervals [174]
+            xmin = 154.077
+            xmax = 155.003
+            text = "*"
+        intervals [175]
+            xmin = 155.003
+            xmax = 155.922
+            text = ""
+        intervals [176]
+            xmin = 155.922
+            xmax = 156.162
+            text = "*"
+        intervals [177]
+            xmin = 156.162
+            xmax = 156.402
+            text = "3.PL.F.OBJ"
+        intervals [178]
+            xmin = 156.402
+            xmax = 156.883
+            text = "*"
+        intervals [179]
+            xmin = 156.883
+            xmax = 157.363
+            text = "*"
+        intervals [180]
+            xmin = 157.363
+            xmax = 157.844
+            text = "*"
+        intervals [181]
+            xmin = 157.844
+            xmax = 158.084
+            text = "*"
+        intervals [182]
+            xmin = 158.084
+            xmax = 158.324
+            text = "3.PST"
+        intervals [183]
+            xmin = 158.324
+            xmax = 158.805
+            text = "*"
+        intervals [184]
+            xmin = 158.805
+            xmax = 158.922
+            text = ""
+        intervals [185]
+            xmin = 158.922
+            xmax = 159.861
+            text = "*"
+        intervals [186]
+            xmin = 159.861
+            xmax = 160.8
+            text = "*"
+        intervals [187]
+            xmin = 160.8
+            xmax = 161.739
+            text = "*"
+        intervals [188]
+            xmin = 161.739
+            xmax = 161.856
+            text = ""
+        intervals [189]
+            xmin = 161.856
+            xmax = 162.299
+            text = "*"
+        intervals [190]
+            xmin = 162.299
+            xmax = 162.521
+            text = "*"
+        intervals [191]
+            xmin = 162.521
+            xmax = 162.743
+            text = "3.PL.F.OBJ"
+        intervals [192]
+            xmin = 162.743
+            xmax = 162.81
+            text = ""
+        intervals [193]
+            xmin = 162.81
+            xmax = 163.193
+            text = "*"
+        intervals [194]
+            xmin = 163.193
+            xmax = 163.576
+            text = "*"
+        intervals [195]
+            xmin = 163.576
+            xmax = 163.959
+            text = "*"
+        intervals [196]
+            xmin = 163.959
+            xmax = 164.343
+            text = "*"
+        intervals [197]
+            xmin = 164.343
+            xmax = 164.526
+            text = ""
+        intervals [198]
+            xmin = 164.526
+            xmax = 164.904
+            text = "*"
+        intervals [199]
+            xmin = 164.904
+            xmax = 165.283
+            text = "*"
+        intervals [200]
+            xmin = 165.283
+            xmax = 165.661
+            text = "*"
+        intervals [201]
+            xmin = 165.661
+            xmax = 166.04
+            text = "*"
+        intervals [202]
+            xmin = 166.04
+            xmax = 166.418
+            text = "*"
+        intervals [203]
+            xmin = 166.418
+            xmax = 166.607
+            text = "*"
+        intervals [204]
+            xmin = 166.607
+            xmax = 166.797
+            text = "3.PL.F.OBJ"
+        intervals [205]
+            xmin = 166.797
+            xmax = 167.176
+            text = "*"
+        intervals [206]
+            xmin = 167.176
+            xmax = 167.593
+            text = ""
+        intervals [207]
+            xmin = 167.593
+            xmax = 168.359
+            text = "*"
+        intervals [208]
+            xmin = 168.359
+            xmax = 168.759
+            text = ""
+        intervals [209]
+            xmin = 168.759
+            xmax = 169.276
+            text = "*"
+        intervals [210]
+            xmin = 169.276
+            xmax = 169.793
+            text = "*"
+        intervals [211]
+            xmin = 169.793
+            xmax = 170.31
+            text = "*"
+        intervals [212]
+            xmin = 170.31
+            xmax = 170.828
+            text = "*"
+        intervals [213]
+            xmin = 170.828
+            xmax = 170.894
+            text = ""
+        intervals [214]
+            xmin = 170.894
+            xmax = 171.419
+            text = "*"
+        intervals [215]
+            xmin = 171.419
+            xmax = 171.944
+            text = "*"
+        intervals [216]
+            xmin = 171.944
+            xmax = 173.111
+            text = ""
+        intervals [217]
+            xmin = 173.111
+            xmax = 173.963
+            text = "*"
+        intervals [218]
+            xmin = 173.963
+            xmax = 174.815
+            text = "*"
+        intervals [219]
+            xmin = 174.815
+            xmax = 174.865
+            text = ""
+        intervals [220]
+            xmin = 174.865
+            xmax = 175.356
+            text = "*"
+        intervals [221]
+            xmin = 175.356
+            xmax = 175.848
+            text = "*"
+        intervals [222]
+            xmin = 175.848
+            xmax = 175.881
+            text = ""
+        intervals [223]
+            xmin = 175.881
+            xmax = 176.681
+            text = "*"
+        intervals [224]
+            xmin = 176.681
+            xmax = 177.481
+            text = "*"
+        intervals [225]
+            xmin = 177.481
+            xmax = 178.198
+            text = ""
+        intervals [226]
+            xmin = 178.198
+            xmax = 178.461
+            text = "*"
+        intervals [227]
+            xmin = 178.461
+            xmax = 178.725
+            text = "3.PST"
+        intervals [228]
+            xmin = 178.725
+            xmax = 179.253
+            text = "*"
+        intervals [229]
+            xmin = 179.253
+            xmax = 179.781
+            text = "*"
+        intervals [230]
+            xmin = 179.781
+            xmax = 179.914
+            text = ""
+        intervals [231]
+            xmin = 179.914
+            xmax = 180.701
+            text = "*"
+        intervals [232]
+            xmin = 180.701
+            xmax = 181.095
+            text = "*"
+        intervals [233]
+            xmin = 181.095
+            xmax = 181.489
+            text = "3.PL.F.OBJ"
+        intervals [234]
+            xmin = 181.489
+            xmax = 182.277
+            text = "*"
+        intervals [235]
+            xmin = 182.277
+            xmax = 183.065
+            text = "*"
+        intervals [236]
+            xmin = 183.065
+            xmax = 183.081
+            text = ""
+        intervals [237]
+            xmin = 183.081
+            xmax = 183.847
+            text = "*"
+        intervals [238]
+            xmin = 183.847
+            xmax = 184.613
+            text = "*"
+        intervals [239]
+            xmin = 184.613
+            xmax = 185.38
+            text = "*"
+        intervals [240]
+            xmin = 185.38
+            xmax = 187.532
+            text = ""
+        intervals [241]
+            xmin = 187.532
+            xmax = 188.143
+            text = "*"
+        intervals [242]
+            xmin = 188.143
+            xmax = 188.754
+            text = "*"
+        intervals [243]
+            xmin = 188.754
+            xmax = 189.365
+            text = "*"
+        intervals [244]
+            xmin = 189.365
+            xmax = 189.649
+            text = ""
+        intervals [245]
+            xmin = 189.649
+            xmax = 189.819
+            text = "*"
+        intervals [246]
+            xmin = 189.819
+            xmax = 189.99
+            text = "3.PST"
+        intervals [247]
+            xmin = 189.99
+            xmax = 190.331
+            text = "*"
+        intervals [248]
+            xmin = 190.331
+            xmax = 190.672
+            text = "*"
+        intervals [249]
+            xmin = 190.672
+            xmax = 190.842
+            text = "*"
+        intervals [250]
+            xmin = 190.842
+            xmax = 191.013
+            text = "3.PL.F.OBJ"
+        intervals [251]
+            xmin = 191.013
+            xmax = 191.355
+            text = "*"
+        intervals [252]
+            xmin = 191.355
+            xmax = 191.371
+            text = ""
+        intervals [253]
+            xmin = 191.371
+            xmax = 192.06
+            text = "*"
+        intervals [254]
+            xmin = 192.06
+            xmax = 192.75
+            text = "*"
+        intervals [255]
+            xmin = 192.75
+            xmax = 193.44
+            text = "*"
+        intervals [256]
+            xmin = 193.44
+            xmax = 193.624
+            text = ""
+        intervals [257]
+            xmin = 193.624
+            xmax = 194.235
+            text = "*"
+        intervals [258]
+            xmin = 194.235
+            xmax = 194.847
+            text = "*"
+        intervals [259]
+            xmin = 194.847
+            xmax = 195.459
+            text = "*"
+        intervals [260]
+            xmin = 195.459
+            xmax = 195.542
+            text = ""
+        intervals [261]
+            xmin = 195.542
+            xmax = 196.417
+            text = "*"
+        intervals [262]
+            xmin = 196.417
+            xmax = 197.292
+            text = "*"
+        intervals [263]
+            xmin = 197.292
+            xmax = 197.442
+            text = ""
+        intervals [264]
+            xmin = 197.442
+            xmax = 197.825
+            text = "*"
+        intervals [265]
+            xmin = 197.825
+            xmax = 198.208
+            text = "*"
+        intervals [266]
+            xmin = 198.208
+            xmax = 198.592
+            text = "*"
+        intervals [267]
+            xmin = 198.592
+            xmax = 201.775
+            text = ""
+        intervals [268]
+            xmin = 201.775
+            xmax = 202.816
+            text = "*"
+        intervals [269]
+            xmin = 202.816
+            xmax = 203.858
+            text = "*"
+        intervals [270]
+            xmin = 203.858
+            xmax = 215.257
+            text = ""

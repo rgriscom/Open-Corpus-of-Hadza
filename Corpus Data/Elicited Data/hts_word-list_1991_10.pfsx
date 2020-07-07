@@ -14,10 +14,10 @@
         <String>Tier</String>
     </pref>
     <pref key="TranscriptionTable.LastActiveRow">
-        <Int>30</Int>
+        <Int>27</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>50.0</Float>
+        <Float>29.141245</Float>
     </pref>
     <prefList key="ExportTabDialog.TierOrder">
         <String>REF</String>
@@ -32,7 +32,7 @@
         <String>Notes@</String>
     </prefList>
     <pref key="LayoutManager.CurrentMode">
-        <Int>1</Int>
+        <Int>2</Int>
     </pref>
     <prefGroup key="TranscriptionMode.Temp.TierColors">
         <pref key="Miller Orthography@">
@@ -74,7 +74,7 @@
         <String>Phonological Transcription</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>0</Long>
+        <Long>458920</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="MediaControlRate">
@@ -92,10 +92,10 @@
         </prefList>
     </prefGroup>
     <pref key="TimeScaleBeginTime">
-        <Long>442220</Long>
+        <Long>458371</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>469901</Long>
+        <Long>458920</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="REF">
@@ -172,7 +172,7 @@
         <Int>87</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>0</Long>
+        <Long>469901</Long>
     </pref>
     <pref key="ExportTabDialog.SelectTiersMode">
         <String>Tier</String>

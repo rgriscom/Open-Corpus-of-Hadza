@@ -82,6 +82,29 @@
     <pref key="LayoutManager.CurrentMode">
         <Int>2</Int>
     </pref>
+    <prefGroup key="TranscriptionMode.Temp.TierColors">
+        <pref key="Miller Orthography@">
+            <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="REF">
+            <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="Notes@">
+            <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="English@">
+            <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="Phonological Transcription@">
+            <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="Swahili@">
+            <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="Woodburn Orthography@">
+            <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+    </prefGroup>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Sender">
             <Int>0</Int>
@@ -140,7 +163,7 @@
         <Float>1.0</Float>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">142,212</Object>
+        <Object class="java.awt.Point">65,24</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>29.197079</Float>

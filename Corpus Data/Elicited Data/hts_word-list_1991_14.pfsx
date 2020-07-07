@@ -14,10 +14,10 @@
         <String>Tier</String>
     </pref>
     <pref key="TranscriptionTable.LastActiveRow">
-        <Int>30</Int>
+        <Int>17</Int>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>50.0</Float>
+        <Float>28.011204</Float>
     </pref>
     <prefList key="ExportTabDialog.TierOrder">
         <String>REF</String>
@@ -32,7 +32,7 @@
         <String>Notes@</String>
     </prefList>
     <pref key="LayoutManager.CurrentMode">
-        <Int>1</Int>
+        <Int>2</Int>
     </pref>
     <prefGroup key="TranscriptionMode.Temp.TierColors">
         <pref key="Miller Orthography@">
@@ -74,7 +74,7 @@
         <String>Phonological Transcription</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>525319</Long>
+        <Long>388904</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="MediaControlRate">
@@ -92,10 +92,10 @@
         </prefList>
     </prefGroup>
     <pref key="TimeScaleBeginTime">
-        <Long>519240</Long>
+        <Long>388333</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>537374</Long>
+        <Long>388904</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="REF">
@@ -172,7 +172,7 @@
         <Int>87</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>535340</Long>
+        <Long>400328</Long>
     </pref>
     <pref key="ExportTabDialog.SelectTiersMode">
         <String>Tier</String>
@@ -258,7 +258,7 @@
         </pref>
     </prefGroup>
     <pref key="TranscriptionTable.LastActiveColumn">
-        <String>Swahili Free Translation</String>
+        <String>Woodburn Orthography</String>
     </pref>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>

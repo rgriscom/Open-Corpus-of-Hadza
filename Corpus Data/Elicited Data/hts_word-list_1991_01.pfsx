@@ -32,6 +32,15 @@
     </pref>
     <prefList key="ExportPraatDialog.selectedTiers">
         <String>REF</String>
+        <String>Swahili@</String>
+        <String>English@</String>
+        <String>Phonological Transcription@</String>
+        <String>Word@</String>
+        <String>Morpheme@</String>
+        <String>Gloss@</String>
+        <String>Woodburn Orthography@</String>
+        <String>Miller Orthography@</String>
+        <String>Notes@</String>
     </prefList>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>7</Int>
@@ -163,7 +172,7 @@
         <Float>1.0</Float>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">65,24</Object>
+        <Object class="java.awt.Point">72,27</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>29.197079</Float>
@@ -248,17 +257,7 @@
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>151</Int>
     </pref>
-    <prefList key="ExportPraatDialog.HiddenTiers">
-        <String>Swahili@</String>
-        <String>English@</String>
-        <String>Phonological Transcription@</String>
-        <String>Word@</String>
-        <String>Morpheme@</String>
-        <String>Gloss@</String>
-        <String>Woodburn Orthography@</String>
-        <String>Miller Orthography@</String>
-        <String>Notes@</String>
-    </prefList>
+    <prefList key="ExportPraatDialog.HiddenTiers"/>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>
         <String>Recipient</String>

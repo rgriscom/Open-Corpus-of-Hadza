@@ -117,17 +117,7 @@
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>151</Int>
     </pref>
-    <prefList key="ExportPraatDialog.HiddenTiers">
-        <String>Swahili@</String>
-        <String>English@</String>
-        <String>Phonological Transcription@</String>
-        <String>Word@</String>
-        <String>Morpheme@</String>
-        <String>Gloss@</String>
-        <String>Woodburn Orthography@</String>
-        <String>Miller Orthography@</String>
-        <String>Notes@</String>
-    </prefList>
+    <prefList key="ExportPraatDialog.HiddenTiers"/>
     <prefList key="TranscriptionTable.HiddenTiers"/>
     <prefGroup key="TranscriptionTable.ColumnWidth">
         <pref key="1">
@@ -157,6 +147,15 @@
     </pref>
     <prefList key="ExportPraatDialog.selectedTiers">
         <String>REF</String>
+        <String>Swahili@</String>
+        <String>English@</String>
+        <String>Phonological Transcription@</String>
+        <String>Word@</String>
+        <String>Morpheme@</String>
+        <String>Gloss@</String>
+        <String>Woodburn Orthography@</String>
+        <String>Miller Orthography@</String>
+        <String>Notes@</String>
     </prefList>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>7</Int>

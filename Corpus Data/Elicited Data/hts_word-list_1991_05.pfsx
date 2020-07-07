@@ -2,29 +2,29 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1301,744</Object>
+        <Object class="java.awt.Dimension">924,1053</Object>
     </pref>
     <prefGroup key="TranscriptionTable.ColumnWidth">
         <pref key="1">
-            <Int>125</Int>
+            <Int>71</Int>
         </pref>
         <pref key="2">
-            <Int>125</Int>
+            <Int>71</Int>
         </pref>
         <pref key="3">
-            <Int>124</Int>
+            <Int>71</Int>
         </pref>
         <pref key="4">
-            <Int>125</Int>
+            <Int>71</Int>
         </pref>
         <pref key="5">
-            <Int>124</Int>
+            <Int>70</Int>
         </pref>
         <pref key="6">
-            <Int>125</Int>
+            <Int>71</Int>
         </pref>
         <pref key="7">
-            <Int>124</Int>
+            <Int>70</Int>
         </pref>
     </prefGroup>
     <pref key="MultiTierViewer.TierSortingMode">
@@ -32,6 +32,15 @@
     </pref>
     <prefList key="ExportPraatDialog.selectedTiers">
         <String>REF</String>
+        <String>Swahili@</String>
+        <String>English@</String>
+        <String>Phonological Transcription@</String>
+        <String>Word@</String>
+        <String>Morpheme@</String>
+        <String>Gloss@</String>
+        <String>Woodburn Orthography@</String>
+        <String>Miller Orthography@</String>
+        <String>Notes@</String>
     </prefList>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>7</Int>
@@ -248,17 +257,7 @@
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>151</Int>
     </pref>
-    <prefList key="ExportPraatDialog.HiddenTiers">
-        <String>Swahili@</String>
-        <String>English@</String>
-        <String>Phonological Transcription@</String>
-        <String>Word@</String>
-        <String>Morpheme@</String>
-        <String>Gloss@</String>
-        <String>Woodburn Orthography@</String>
-        <String>Miller Orthography@</String>
-        <String>Notes@</String>
-    </prefList>
+    <prefList key="ExportPraatDialog.HiddenTiers"/>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>
         <String>Recipient</String>
